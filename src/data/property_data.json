@@ -1,0 +1,5502 @@
+[
+    {
+        "size": "61372 sq. meters",
+        "title": "Barren Land 0",
+        "id": "7d9f5a41-55ed-40ee-8c63-6a1ef35e8a48",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-21T14:06:59.324Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "4927 Bruen Prairie, East Aiyana, Georgia, Guernsey",
+        "city": "East Aiyana",
+        "state": "Georgia",
+        "country": "Guernsey",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Railway Station",
+                "Malls"
+            ],
+            "appox_footfall": "89090/day"
+        },
+        "nearest_major_city": "South Damianville",
+        "starting_price": "485.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "93710 sq. meters",
+        "title": "Barren Land 1",
+        "id": "cb10b06d-0ffd-4f86-992c-f32e3a350941",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-14T16:36:28.577Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "9300 Runolfsson Plaza, New Eldonfurt, Oklahoma, Angola",
+        "city": "New Eldonfurt",
+        "state": "Oklahoma",
+        "country": "Angola",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Malls",
+                "Monument"
+            ],
+            "appox_footfall": "44032/day"
+        },
+        "nearest_major_city": "Kautzertown",
+        "starting_price": "697.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "71956 sq. meters",
+        "title": "Barren Land 2",
+        "id": "85b5da90-d464-41b9-bde3-190e54fc3746",
+        "owner_contact_info": {
+            "full_name": "Joel Jakubowski",
+            "contact_number": "(557) 294-8232 x23309",
+            "address": "95412 Crystal Plains, South Sedrickchester, Alaska, Latvia",
+            "email": "Berneice7@hotmail.com"
+        },
+        "acquired_on": "2020-07-16T15:48:32.262Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "683 Reynolds Court, South Sedrickchester, Alaska, Latvia",
+        "city": "South Sedrickchester",
+        "state": "Alaska",
+        "country": "Latvia",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Malls",
+                null
+            ],
+            "appox_footfall": "66891/day"
+        },
+        "nearest_major_city": "East Evalynberg",
+        "starting_price": "598.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "16926 sq. meters",
+        "title": "Barren Land 3",
+        "id": "1b2d5f6f-66c3-4f72-b522-e41a8fbacf64",
+        "owner_contact_info": {
+            "full_name": "Ms. Dan Mante",
+            "contact_number": "(613) 823-2560",
+            "address": "09744 Birdie Mountain, Wayneberg, Massachusetts, Mayotte",
+            "email": "Corine.Gutkowski45@yahoo.com"
+        },
+        "acquired_on": "2020-05-23T16:16:56.469Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "58157 Sunny Shores, Wayneberg, Massachusetts, Mayotte",
+        "city": "Wayneberg",
+        "state": "Massachusetts",
+        "country": "Mayotte",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                null,
+                "Airport"
+            ],
+            "appox_footfall": "15497/day"
+        },
+        "nearest_major_city": "Christellemouth",
+        "starting_price": "716.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "88378 sq. meters",
+        "title": "Barren Land 4",
+        "id": "bd37d8cc-adc3-44a1-9e9c-ddab16c394b7",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-31T16:03:01.705Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "07557 Balistreri Stream, North Joshuah, South Dakota, Swaziland",
+        "city": "North Joshuah",
+        "state": "South Dakota",
+        "country": "Swaziland",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Malls",
+                "Residential Area"
+            ],
+            "appox_footfall": "16008/day"
+        },
+        "nearest_major_city": "Kirlinbury",
+        "starting_price": "64.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "67140 sq. meters",
+        "title": "Barren Land 5",
+        "id": "b58df9e5-d9ca-4b55-a2d5-94ba9589d076",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-11-20T11:01:08.250Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "6371 Frederique Neck, Collinberg, Arizona, Belarus",
+        "city": "Collinberg",
+        "state": "Arizona",
+        "country": "Belarus",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Railway Station",
+                "Airport"
+            ],
+            "appox_footfall": "96453/day"
+        },
+        "nearest_major_city": "East Deliafort",
+        "starting_price": "8.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "72908 sq. meters",
+        "title": "Barren Land 6",
+        "id": "83026361-7e10-4dc3-a929-e0c1b54ec570",
+        "owner_contact_info": {
+            "full_name": "Beatrice Hettinger",
+            "contact_number": "857.761.9644 x307",
+            "address": "3045 Mathew Estate, Shanahanland, South Dakota, Haiti",
+            "email": "Ronny_Carter93@yahoo.com"
+        },
+        "acquired_on": "2020-06-09T14:37:37.237Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "9722 Ryley Mews, Shanahanland, South Dakota, Haiti",
+        "city": "Shanahanland",
+        "state": "South Dakota",
+        "country": "Haiti",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Residential Area",
+                "Airport"
+            ],
+            "appox_footfall": "92618/day"
+        },
+        "nearest_major_city": "Aiyanamouth",
+        "starting_price": "663.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "63747 sq. meters",
+        "title": "Barren Land 7",
+        "id": "cc3e899d-05a2-434d-be68-3450b8beac20",
+        "owner_contact_info": {
+            "full_name": "Mathew Schoen",
+            "contact_number": "495-300-8215 x74106",
+            "address": "41251 Cristal Track, South Velva, New Jersey, Saint Helena",
+            "email": "Nia17@gmail.com"
+        },
+        "acquired_on": "2020-06-17T05:51:01.762Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "2269 Jaiden Prairie, South Velva, New Jersey, Saint Helena",
+        "city": "South Velva",
+        "state": "New Jersey",
+        "country": "Saint Helena",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Monument",
+                "Airport"
+            ],
+            "appox_footfall": "64637/day"
+        },
+        "nearest_major_city": "Port Vincenzomouth",
+        "starting_price": "237.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "80951 sq. meters",
+        "title": "Barren Land 8",
+        "id": "f437b76d-02e8-4501-939b-d37b4c7e27e8",
+        "owner_contact_info": {
+            "full_name": "Clinton Purdy",
+            "contact_number": "(726) 370-4187",
+            "address": "96300 Thaddeus Stream, South Toby, Hawaii, Nicaragua",
+            "email": "Evalyn.Kshlerin36@gmail.com"
+        },
+        "acquired_on": "2021-01-27T16:34:55.788Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "4513 Chaya Locks, South Toby, Hawaii, Nicaragua",
+        "city": "South Toby",
+        "state": "Hawaii",
+        "country": "Nicaragua",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Garden",
+                "Market"
+            ],
+            "appox_footfall": "24828/day"
+        },
+        "nearest_major_city": "Port Carmelchester",
+        "starting_price": "639.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "64028 sq. meters",
+        "title": "Barren Land 9",
+        "id": "2c8ed960-8d31-4715-9038-9c4444c40514",
+        "owner_contact_info": {
+            "full_name": "Jordan Kohler",
+            "contact_number": "652.242.1602 x78076",
+            "address": "42914 Wisoky Estates, Manuelbury, Massachusetts, United States Minor Outlying Islands",
+            "email": "Micaela.Stoltenberg32@yahoo.com"
+        },
+        "acquired_on": "2020-02-13T12:25:08.212Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "07202 Ebert Street, Manuelbury, Massachusetts, United States Minor Outlying Islands",
+        "city": "Manuelbury",
+        "state": "Massachusetts",
+        "country": "United States Minor Outlying Islands",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                null,
+                "Residential Area"
+            ],
+            "appox_footfall": "69807/day"
+        },
+        "nearest_major_city": "East Annamae",
+        "starting_price": "885.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "90860 sq. meters",
+        "title": "Barren Land 10",
+        "id": "b16c24f0-4e0d-4246-8919-f8c0086f2ec2",
+        "owner_contact_info": {
+            "full_name": "Donnie Witting",
+            "contact_number": "614.927.2868",
+            "address": "6470 Lesch Flats, Kuhnfurt, Utah, Saint Barthelemy",
+            "email": "Bria_Kuhn@hotmail.com"
+        },
+        "acquired_on": "2020-07-29T11:32:36.988Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "14937 Luettgen Squares, Kuhnfurt, Utah, Saint Barthelemy",
+        "city": "Kuhnfurt",
+        "state": "Utah",
+        "country": "Saint Barthelemy",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Malls",
+                "Residential Area"
+            ],
+            "appox_footfall": "20197/day"
+        },
+        "nearest_major_city": "East Franz",
+        "starting_price": "843.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "56779 sq. meters",
+        "title": "Barren Land 11",
+        "id": "2e773d3e-9f32-4ae2-acc5-d1b84bdca913",
+        "owner_contact_info": {
+            "full_name": "Doris Gaylord",
+            "contact_number": "(630) 230-1463 x1434",
+            "address": "347 Williamson Track, Parkerside, Tennessee, Swaziland",
+            "email": "Eryn30@yahoo.com"
+        },
+        "acquired_on": "2020-06-05T00:43:00.798Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "516 Rice Causeway, Parkerside, Tennessee, Swaziland",
+        "city": "Parkerside",
+        "state": "Tennessee",
+        "country": "Swaziland",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Monument",
+                "Market"
+            ],
+            "appox_footfall": "34204/day"
+        },
+        "nearest_major_city": "Pfefferview",
+        "starting_price": "182.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "53808 sq. meters",
+        "title": "Barren Land 12",
+        "id": "4193b35f-c9f9-4464-83cd-11cb7abde9a2",
+        "owner_contact_info": {
+            "full_name": "Curtis Grimes DVM",
+            "contact_number": "(440) 903-7623 x38813",
+            "address": "066 Mandy Ferry, North Fabiola, Hawaii, Thailand",
+            "email": "Max_Trantow0@hotmail.com"
+        },
+        "acquired_on": "2020-03-26T14:56:43.457Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "75300 Sharon Center, North Fabiola, Hawaii, Thailand",
+        "city": "North Fabiola",
+        "state": "Hawaii",
+        "country": "Thailand",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Bus Stand",
+                "Shops"
+            ],
+            "appox_footfall": "33704/day"
+        },
+        "nearest_major_city": "Lake Selmer",
+        "starting_price": "802.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "36311 sq. meters",
+        "title": "Barren Land 13",
+        "id": "6c70c6ef-e839-45be-871b-7d0f91659dda",
+        "owner_contact_info": {
+            "full_name": "Glenn Abernathy Sr.",
+            "contact_number": "1-914-813-6117",
+            "address": "8932 Guadalupe Neck, New Rosalindville, Hawaii, Andorra",
+            "email": "Axel.Ryan13@gmail.com"
+        },
+        "acquired_on": "2020-03-14T18:57:21.612Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "70072 Leannon Unions, New Rosalindville, Hawaii, Andorra",
+        "city": "New Rosalindville",
+        "state": "Hawaii",
+        "country": "Andorra",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Airport",
+                "Garden"
+            ],
+            "appox_footfall": "68385/day"
+        },
+        "nearest_major_city": "West Johnpaul",
+        "starting_price": "13.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "36109 sq. meters",
+        "title": "Barren Land 14",
+        "id": "18e2dbdb-5fca-4384-a2eb-5a6b88e024b7",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-31T15:29:31.838Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "59412 Reed Underpass, Hanemouth, New Jersey, Libyan Arab Jamahiriya",
+        "city": "Hanemouth",
+        "state": "New Jersey",
+        "country": "Libyan Arab Jamahiriya",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Residential Area",
+                "Airport"
+            ],
+            "appox_footfall": "56602/day"
+        },
+        "nearest_major_city": "Linneaville",
+        "starting_price": "559.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "7768 sq. meters",
+        "title": "Barren Land 15",
+        "id": "1837840a-8e0b-4cd5-8d8b-08e779da4021",
+        "owner_contact_info": {
+            "full_name": "Mark Quitzon",
+            "contact_number": "(636) 361-9203",
+            "address": "98302 Gibson Crossing, Bernierport, Louisiana, Dominica",
+            "email": "Kade69@yahoo.com"
+        },
+        "acquired_on": "2020-10-24T23:15:12.892Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "16525 Koch Ridges, Bernierport, Louisiana, Dominica",
+        "city": "Bernierport",
+        "state": "Louisiana",
+        "country": "Dominica",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Monument",
+                "Garden"
+            ],
+            "appox_footfall": "70504/day"
+        },
+        "nearest_major_city": "New Hailiehaven",
+        "starting_price": "679.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "39259 sq. meters",
+        "title": "Barren Land 16",
+        "id": "5374e23d-8906-4ca8-ada9-f7a79b5c2357",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-15T00:29:03.950Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "931 Dejuan Causeway, Wilkinsonshire, Wyoming, Norfolk Island",
+        "city": "Wilkinsonshire",
+        "state": "Wyoming",
+        "country": "Norfolk Island",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Railway Station",
+                "Bus Stand"
+            ],
+            "appox_footfall": "38785/day"
+        },
+        "nearest_major_city": "Dwightbury",
+        "starting_price": "868.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "11468 sq. meters",
+        "title": "Barren Land 17",
+        "id": "7cf607c0-65bd-4478-94f1-f44e13ffa9f0",
+        "owner_contact_info": {
+            "full_name": "Patti Batz",
+            "contact_number": "1-871-674-8183 x055",
+            "address": "5534 Arthur Shore, North Irwinside, Pennsylvania, India",
+            "email": "Walker.Roob@gmail.com"
+        },
+        "acquired_on": "2020-03-21T13:13:05.351Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "32847 Alfred Spur, North Irwinside, Pennsylvania, India",
+        "city": "North Irwinside",
+        "state": "Pennsylvania",
+        "country": "India",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Monument",
+                "Monument"
+            ],
+            "appox_footfall": "34137/day"
+        },
+        "nearest_major_city": "New Mckenna",
+        "starting_price": "962.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "67881 sq. meters",
+        "title": "Barren Land 18",
+        "id": "0979af85-d184-40c0-84f5-5dffa2fd43f1",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-11-24T18:15:01.214Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "37161 Meta Tunnel, South Jess, Virginia, Gibraltar",
+        "city": "South Jess",
+        "state": "Virginia",
+        "country": "Gibraltar",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Airport",
+                "Airport"
+            ],
+            "appox_footfall": "89791/day"
+        },
+        "nearest_major_city": "O'Konview",
+        "starting_price": "308.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "11494 sq. meters",
+        "title": "Barren Land 19",
+        "id": "97be2568-6f24-46fe-aec7-11d50afbe92c",
+        "owner_contact_info": {
+            "full_name": "Charlie Lueilwitz",
+            "contact_number": "947-854-4394",
+            "address": "7460 Vern Trail, Lake Fosterstad, Wyoming, Haiti",
+            "email": "Kacey.Williamson23@gmail.com"
+        },
+        "acquired_on": "2020-03-23T02:28:36.840Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "905 Otho Roads, Lake Fosterstad, Wyoming, Haiti",
+        "city": "Lake Fosterstad",
+        "state": "Wyoming",
+        "country": "Haiti",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Monument",
+                "Bus Stand"
+            ],
+            "appox_footfall": "6226/day"
+        },
+        "nearest_major_city": "Neilport",
+        "starting_price": "54.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "30883 sq. meters",
+        "title": "Barren Land 20",
+        "id": "07ae1f83-9430-4495-a427-5c911bfca241",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-08-05T06:02:30.070Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "47914 Gutmann Tunnel, Port Janickland, Idaho, Central African Republic",
+        "city": "Port Janickland",
+        "state": "Idaho",
+        "country": "Central African Republic",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Residential Area",
+                "Monument"
+            ],
+            "appox_footfall": "66429/day"
+        },
+        "nearest_major_city": "New Ruby",
+        "starting_price": "192.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "18174 sq. meters",
+        "title": "Barren Land 21",
+        "id": "b4354478-8e49-41be-9d5c-7f73a7da4dae",
+        "owner_contact_info": {
+            "full_name": "April Rau",
+            "contact_number": "(215) 461-0028 x9224",
+            "address": "8722 Mellie Pass, East Esteban, North Carolina, Greece",
+            "email": "Johnson_Quitzon94@yahoo.com"
+        },
+        "acquired_on": "2021-01-08T17:13:08.010Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "477 Becker Mountain, East Esteban, North Carolina, Greece",
+        "city": "East Esteban",
+        "state": "North Carolina",
+        "country": "Greece",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Airport",
+                "Residential Area"
+            ],
+            "appox_footfall": "18338/day"
+        },
+        "nearest_major_city": "Domenicbury",
+        "starting_price": "302.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "44947 sq. meters",
+        "title": "Barren Land 22",
+        "id": "df1b00a1-83e2-4380-92af-91f284c0ecdb",
+        "owner_contact_info": {
+            "full_name": "June Schaden",
+            "contact_number": "(758) 942-8016",
+            "address": "76193 Fisher Greens, Ullrichfurt, Florida, Bahrain",
+            "email": "Chanel22@hotmail.com"
+        },
+        "acquired_on": "2020-07-06T16:38:50.035Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "322 Schiller Ports, Ullrichfurt, Florida, Bahrain",
+        "city": "Ullrichfurt",
+        "state": "Florida",
+        "country": "Bahrain",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Monument",
+                null
+            ],
+            "appox_footfall": "25557/day"
+        },
+        "nearest_major_city": "Cummingsmouth",
+        "starting_price": "330.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "97764 sq. meters",
+        "title": "Barren Land 23",
+        "id": "ebbdf77a-6ed9-4965-8764-7df4d948f34b",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-18T08:06:07.546Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "5173 Dibbert Light, Jerelville, Minnesota, Syrian Arab Republic",
+        "city": "Jerelville",
+        "state": "Minnesota",
+        "country": "Syrian Arab Republic",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Railway Station",
+                "Railway Station"
+            ],
+            "appox_footfall": "35693/day"
+        },
+        "nearest_major_city": "Port Myronside",
+        "starting_price": "537.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "68527 sq. meters",
+        "title": "Barren Land 24",
+        "id": "e6151d8a-388e-4826-a5d5-a4e0d07930a2",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-03T14:52:07.831Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "0405 Ferry Heights, Cartershire, Virginia, Guinea-Bissau",
+        "city": "Cartershire",
+        "state": "Virginia",
+        "country": "Guinea-Bissau",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Airport",
+                "Bus Stand"
+            ],
+            "appox_footfall": "17213/day"
+        },
+        "nearest_major_city": "Funkmouth",
+        "starting_price": "610.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "4546 sq. meters",
+        "title": "Barren Land 25",
+        "id": "7d228aff-adf1-4890-a0b7-1481167b6264",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-28T09:58:09.913Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "01286 Tierra Terrace, West Jarredfort, Nevada, Yemen",
+        "city": "West Jarredfort",
+        "state": "Nevada",
+        "country": "Yemen",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Airport",
+                "Restaurant"
+            ],
+            "appox_footfall": "29629/day"
+        },
+        "nearest_major_city": "Kathleenbury",
+        "starting_price": "852.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "111 sq. meters",
+        "title": "Barren Land 26",
+        "id": "97ffc64f-4a4a-45df-b3af-5c25ebfbb8c1",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-13T15:04:04.012Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "1690 Justyn Canyon, South Corneliusville, New Hampshire, Mexico",
+        "city": "South Corneliusville",
+        "state": "New Hampshire",
+        "country": "Mexico",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Malls",
+                null
+            ],
+            "appox_footfall": "69333/day"
+        },
+        "nearest_major_city": "West Stanfordland",
+        "starting_price": "981.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "30347 sq. meters",
+        "title": "Barren Land 27",
+        "id": "e8a8ab42-0faf-4693-be44-8e697bc1e3a6",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-11-15T17:59:57.147Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "79762 Octavia Corner, Haleytown, Kentucky, Guyana",
+        "city": "Haleytown",
+        "state": "Kentucky",
+        "country": "Guyana",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Garden",
+                null
+            ],
+            "appox_footfall": "46770/day"
+        },
+        "nearest_major_city": "New Valentinaburgh",
+        "starting_price": "684.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "14628 sq. meters",
+        "title": "Barren Land 28",
+        "id": "0aa69985-19fd-4478-ba89-1580563d1fde",
+        "owner_contact_info": {
+            "full_name": "Ross Streich",
+            "contact_number": "(621) 760-0667 x64736",
+            "address": "134 Sipes Haven, East Gavinfurt, Delaware, Bosnia and Herzegovina",
+            "email": "Verda67@gmail.com"
+        },
+        "acquired_on": "2020-07-07T18:49:55.857Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "563 Tad Neck, East Gavinfurt, Delaware, Bosnia and Herzegovina",
+        "city": "East Gavinfurt",
+        "state": "Delaware",
+        "country": "Bosnia and Herzegovina",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Railway Station",
+                "Airport"
+            ],
+            "appox_footfall": "50010/day"
+        },
+        "nearest_major_city": "Cruickshankport",
+        "starting_price": "193.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "45810 sq. meters",
+        "title": "Barren Land 29",
+        "id": "663a8046-2a58-4a7d-af67-5427b5821251",
+        "owner_contact_info": {
+            "full_name": "Darren Tremblay",
+            "contact_number": "(261) 894-9927 x2721",
+            "address": "1561 Irwin Way, North Newell, Kansas, Pitcairn Islands",
+            "email": "Kamren59@gmail.com"
+        },
+        "acquired_on": "2020-10-25T01:17:52.961Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "4153 Brekke Lakes, North Newell, Kansas, Pitcairn Islands",
+        "city": "North Newell",
+        "state": "Kansas",
+        "country": "Pitcairn Islands",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Monument",
+                "Malls"
+            ],
+            "appox_footfall": "76640/day"
+        },
+        "nearest_major_city": "Zulaufborough",
+        "starting_price": "547.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "59687 sq. meters",
+        "title": "Barren Land 30",
+        "id": "c2598f58-8828-481d-a493-44173e8523f1",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-14T21:20:48.308Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "79198 Jakubowski Fork, South Colbytown, Iowa, Serbia",
+        "city": "South Colbytown",
+        "state": "Iowa",
+        "country": "Serbia",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Residential Area",
+                "Bus Stand"
+            ],
+            "appox_footfall": "24746/day"
+        },
+        "nearest_major_city": "South Lyla",
+        "starting_price": "402.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "88684 sq. meters",
+        "title": "Barren Land 31",
+        "id": "12e8d249-3e39-4742-95cb-97cc15691882",
+        "owner_contact_info": {
+            "full_name": "Miranda Konopelski Jr.",
+            "contact_number": "381-973-2491 x7517",
+            "address": "134 Alexzander Court, Port Nya, California, Poland",
+            "email": "Kamron_Gutmann@gmail.com"
+        },
+        "acquired_on": "2020-12-02T05:57:02.689Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "0524 Clint Islands, Port Nya, California, Poland",
+        "city": "Port Nya",
+        "state": "California",
+        "country": "Poland",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Garden",
+                "Residential Area"
+            ],
+            "appox_footfall": "4206/day"
+        },
+        "nearest_major_city": "Nelleside",
+        "starting_price": "136.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "62298 sq. meters",
+        "title": "Barren Land 32",
+        "id": "c7cb056b-a833-4c96-8042-e550e9a68844",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-12-09T06:57:36.835Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "119 Ziemann Trafficway, East Wilton, Alaska, Liechtenstein",
+        "city": "East Wilton",
+        "state": "Alaska",
+        "country": "Liechtenstein",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Bus Stand",
+                "Market"
+            ],
+            "appox_footfall": "17294/day"
+        },
+        "nearest_major_city": "Lake Abdulfort",
+        "starting_price": "339.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "98160 sq. meters",
+        "title": "Barren Land 33",
+        "id": "820d91c3-3d71-4440-a618-3170edd4f45f",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-01T13:25:53.218Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "04201 Sipes Rapid, Port Arely, Georgia, Slovakia (Slovak Republic)",
+        "city": "Port Arely",
+        "state": "Georgia",
+        "country": "Slovakia (Slovak Republic)",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Residential Area",
+                "Shops"
+            ],
+            "appox_footfall": "71884/day"
+        },
+        "nearest_major_city": "North Frankie",
+        "starting_price": "248.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "80265 sq. meters",
+        "title": "Barren Land 34",
+        "id": "e3d7e599-ecdc-4de9-9a9c-1d331be4e743",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-31T06:54:56.367Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "5143 Murray Mission, Lake Drewshire, Alabama, Oman",
+        "city": "Lake Drewshire",
+        "state": "Alabama",
+        "country": "Oman",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Airport",
+                "Airport"
+            ],
+            "appox_footfall": "17167/day"
+        },
+        "nearest_major_city": "Emmaleefurt",
+        "starting_price": "173.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "3190 sq. meters",
+        "title": "Barren Land 35",
+        "id": "e6209e7d-2d97-4240-970c-8aa7780c5f27",
+        "owner_contact_info": {
+            "full_name": "Dave Hodkiewicz",
+            "contact_number": "479-315-6586",
+            "address": "043 Rohan Prairie, Uniquemouth, Delaware, Finland",
+            "email": "Dorothea.Dickinson@yahoo.com"
+        },
+        "acquired_on": "2020-03-02T18:01:26.056Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "261 West Row, Uniquemouth, Delaware, Finland",
+        "city": "Uniquemouth",
+        "state": "Delaware",
+        "country": "Finland",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Residential Area",
+                "Monument"
+            ],
+            "appox_footfall": "3374/day"
+        },
+        "nearest_major_city": "Terrymouth",
+        "starting_price": "778.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "10766 sq. meters",
+        "title": "Barren Land 36",
+        "id": "b9b2d80e-cf96-454a-94fe-c564b18730c8",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-07-09T07:32:47.872Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "65506 Shyanne Shoal, Hayesborough, Nevada, France",
+        "city": "Hayesborough",
+        "state": "Nevada",
+        "country": "France",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Garden",
+                "Garden"
+            ],
+            "appox_footfall": "16771/day"
+        },
+        "nearest_major_city": "North Camren",
+        "starting_price": "131.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "1175 sq. meters",
+        "title": "Barren Land 37",
+        "id": "4faef4ff-e2dd-4c1a-acdf-14748a325a15",
+        "owner_contact_info": {
+            "full_name": "Dawn Bashirian",
+            "contact_number": "595.373.5945",
+            "address": "77312 Cassin Expressway, Klingport, West Virginia, Cocos (Keeling) Islands",
+            "email": "Laurence.Raynor@hotmail.com"
+        },
+        "acquired_on": "2020-03-04T04:21:10.066Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "25775 Gerda Ferry, Klingport, West Virginia, Cocos (Keeling) Islands",
+        "city": "Klingport",
+        "state": "West Virginia",
+        "country": "Cocos (Keeling) Islands",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Garden",
+                "Malls"
+            ],
+            "appox_footfall": "71653/day"
+        },
+        "nearest_major_city": "New Nelda",
+        "starting_price": "264.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "58967 sq. meters",
+        "title": "Barren Land 38",
+        "id": "651698f1-7819-478b-bf17-d76f9ca401a2",
+        "owner_contact_info": {
+            "full_name": "Megan Zboncak",
+            "contact_number": "(489) 619-3998 x48101",
+            "address": "3079 Strosin Valleys, North Eldora, Hawaii, Mauritius",
+            "email": "Clara_Greenfelder@gmail.com"
+        },
+        "acquired_on": "2020-07-19T21:07:06.115Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "29240 Koss Mountain, North Eldora, Hawaii, Mauritius",
+        "city": "North Eldora",
+        "state": "Hawaii",
+        "country": "Mauritius",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Malls",
+                null
+            ],
+            "appox_footfall": "50672/day"
+        },
+        "nearest_major_city": "Connview",
+        "starting_price": "908.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "6737 sq. meters",
+        "title": "Barren Land 39",
+        "id": "41b21cef-3489-4707-9ce9-477e010be578",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-12-01T00:24:40.614Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "20860 Kassulke Road, Townemouth, Hawaii, Mozambique",
+        "city": "Townemouth",
+        "state": "Hawaii",
+        "country": "Mozambique",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Bus Stand",
+                "Malls"
+            ],
+            "appox_footfall": "68249/day"
+        },
+        "nearest_major_city": "West Myahberg",
+        "starting_price": "881.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "68277 sq. meters",
+        "title": "Barren Land 40",
+        "id": "25603046-e731-4572-8b21-34b57bfd658b",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-14T08:04:17.749Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "39114 Garth Mountain, Sipesborough, Wyoming, Tanzania",
+        "city": "Sipesborough",
+        "state": "Wyoming",
+        "country": "Tanzania",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Bus Stand",
+                "Shops"
+            ],
+            "appox_footfall": "1513/day"
+        },
+        "nearest_major_city": "Port Mossiechester",
+        "starting_price": "999.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "95540 sq. meters",
+        "title": "Barren Land 41",
+        "id": "1d0366c7-76e1-4e3e-9485-01417fff96cd",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-10T13:21:44.451Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "8298 Maria Place, Lake Christinaborough, Georgia, Papua New Guinea",
+        "city": "Lake Christinaborough",
+        "state": "Georgia",
+        "country": "Papua New Guinea",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                null,
+                "Airport"
+            ],
+            "appox_footfall": "95995/day"
+        },
+        "nearest_major_city": "West Terrence",
+        "starting_price": "131.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "65837 sq. meters",
+        "title": "Barren Land 42",
+        "id": "a5571e6d-082d-490b-9584-99c51082fa6c",
+        "owner_contact_info": {
+            "full_name": "Audrey Lueilwitz",
+            "contact_number": "638-307-8778 x334",
+            "address": "68357 Casimer Springs, Schulistmouth, Virginia, Hungary",
+            "email": "Freddie.Ritchie@gmail.com"
+        },
+        "acquired_on": "2020-09-21T16:42:47.942Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "5196 Heidenreich Flat, Schulistmouth, Virginia, Hungary",
+        "city": "Schulistmouth",
+        "state": "Virginia",
+        "country": "Hungary",
+        "nearby_locations": {
+            "locations": [
+                null,
+                null,
+                "Restaurant"
+            ],
+            "appox_footfall": "32064/day"
+        },
+        "nearest_major_city": "Crystalville",
+        "starting_price": "352.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "46694 sq. meters",
+        "title": "Barren Land 43",
+        "id": "7646a081-7b05-4fcf-b228-30c7a15a4afb",
+        "owner_contact_info": {
+            "full_name": "Dr. Elsie Krajcik",
+            "contact_number": "572.636.7216 x647",
+            "address": "287 Liana Stravenue, South Judsonbury, North Dakota, Georgia",
+            "email": "Chelsey_Armstrong30@gmail.com"
+        },
+        "acquired_on": "2020-08-02T04:44:56.709Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "5134 Nienow Trail, South Judsonbury, North Dakota, Georgia",
+        "city": "South Judsonbury",
+        "state": "North Dakota",
+        "country": "Georgia",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Garden",
+                "Monument"
+            ],
+            "appox_footfall": "39547/day"
+        },
+        "nearest_major_city": "Harrisburgh",
+        "starting_price": "390.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "12661 sq. meters",
+        "title": "Barren Land 44",
+        "id": "072c20b6-7f7f-4aea-9e86-fd6c7a8b7e2f",
+        "owner_contact_info": {
+            "full_name": "Aubrey Little",
+            "contact_number": "675-256-6495 x365",
+            "address": "981 Blanda Flats, North Jarvisport, Texas, Equatorial Guinea",
+            "email": "Evelyn_Terry@gmail.com"
+        },
+        "acquired_on": "2020-12-24T13:47:10.128Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "5948 Kamron Fork, North Jarvisport, Texas, Equatorial Guinea",
+        "city": "North Jarvisport",
+        "state": "Texas",
+        "country": "Equatorial Guinea",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Restaurant",
+                "Residential Area"
+            ],
+            "appox_footfall": "81397/day"
+        },
+        "nearest_major_city": "Olamouth",
+        "starting_price": "878.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "43257 sq. meters",
+        "title": "Barren Land 45",
+        "id": "77d1fd65-51a1-4f1f-a217-6378a389d4dc",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-05T02:16:20.423Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "03995 Silas Street, Javonteberg, Nevada, Palestinian Territory",
+        "city": "Javonteberg",
+        "state": "Nevada",
+        "country": "Palestinian Territory",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Residential Area",
+                "Malls"
+            ],
+            "appox_footfall": "91622/day"
+        },
+        "nearest_major_city": "Framiside",
+        "starting_price": "509.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "65187 sq. meters",
+        "title": "Barren Land 46",
+        "id": "5cacc6e2-e5bd-4dbd-8d3c-3cf13898914f",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-23T10:30:34.797Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "83613 O'Conner Crossing, North Gussie, Hawaii, Angola",
+        "city": "North Gussie",
+        "state": "Hawaii",
+        "country": "Angola",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Bus Stand",
+                "Airport"
+            ],
+            "appox_footfall": "31081/day"
+        },
+        "nearest_major_city": "Harrisland",
+        "starting_price": "351.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "79564 sq. meters",
+        "title": "Barren Land 47",
+        "id": "6045c193-f993-4c7f-8dca-254d5e74da41",
+        "owner_contact_info": {
+            "full_name": "Christy Volkman",
+            "contact_number": "217-666-3148",
+            "address": "37425 Shields Mountain, Celiaburgh, Alaska, Bermuda",
+            "email": "Cierra_Blanda49@gmail.com"
+        },
+        "acquired_on": "2020-11-18T21:44:18.772Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "3432 Rylee Circle, Celiaburgh, Alaska, Bermuda",
+        "city": "Celiaburgh",
+        "state": "Alaska",
+        "country": "Bermuda",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Bus Stand",
+                "Garden"
+            ],
+            "appox_footfall": "58085/day"
+        },
+        "nearest_major_city": "New Millie",
+        "starting_price": "326.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "69864 sq. meters",
+        "title": "Barren Land 48",
+        "id": "109248d1-33b2-43aa-9b18-1bda55e07bfe",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-07T15:04:24.914Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "84226 Schuster Green, Oletown, Nebraska, Ethiopia",
+        "city": "Oletown",
+        "state": "Nebraska",
+        "country": "Ethiopia",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Residential Area",
+                "Bus Stand"
+            ],
+            "appox_footfall": "3343/day"
+        },
+        "nearest_major_city": "Lake Sydneeview",
+        "starting_price": "932.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "43769 sq. meters",
+        "title": "Barren Land 49",
+        "id": "811ffc3f-08e8-48d7-94c4-10f8dcdeb90a",
+        "owner_contact_info": {
+            "full_name": "Ms. Leona Legros",
+            "contact_number": "507.738.3569 x09173",
+            "address": "138 Mohr Parks, Salmaborough, Nebraska, Aruba",
+            "email": "Emmy90@yahoo.com"
+        },
+        "acquired_on": "2020-04-24T01:19:52.042Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "541 Maia Coves, Salmaborough, Nebraska, Aruba",
+        "city": "Salmaborough",
+        "state": "Nebraska",
+        "country": "Aruba",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Market",
+                "Bus Stand"
+            ],
+            "appox_footfall": "3044/day"
+        },
+        "nearest_major_city": "New Cecilebury",
+        "starting_price": "699.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "84513 sq. meters",
+        "title": "Barren Land 50",
+        "id": "679a62f6-a1a7-41da-9451-a4a1e9fa437a",
+        "owner_contact_info": {
+            "full_name": "Bridget Luettgen",
+            "contact_number": "(371) 366-0266 x230",
+            "address": "5835 Paucek Haven, Fritschton, Michigan, Cape Verde",
+            "email": "Wilber.OConnell61@gmail.com"
+        },
+        "acquired_on": "2020-07-11T01:56:46.653Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "40182 Andre Corner, Fritschton, Michigan, Cape Verde",
+        "city": "Fritschton",
+        "state": "Michigan",
+        "country": "Cape Verde",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Residential Area",
+                "Restaurant"
+            ],
+            "appox_footfall": "55972/day"
+        },
+        "nearest_major_city": "North Jeffreyville",
+        "starting_price": "113.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "82562 sq. meters",
+        "title": "Barren Land 51",
+        "id": "47eeff32-fce3-4ff2-a3b5-b1d3fd5acf61",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-07-03T14:00:13.246Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "171 Bernhard Manors, Lake Winston, Kansas, Kazakhstan",
+        "city": "Lake Winston",
+        "state": "Kansas",
+        "country": "Kazakhstan",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Garden",
+                "Bus Stand"
+            ],
+            "appox_footfall": "17176/day"
+        },
+        "nearest_major_city": "Wintheiserburgh",
+        "starting_price": "938.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "54902 sq. meters",
+        "title": "Barren Land 52",
+        "id": "1f9c7db1-5fa7-4639-80f1-36032986453e",
+        "owner_contact_info": {
+            "full_name": "Benny Ritchie",
+            "contact_number": "1-771-279-3492",
+            "address": "7390 Isabel Center, Cassandrashire, New Hampshire, Ecuador",
+            "email": "Johanna85@yahoo.com"
+        },
+        "acquired_on": "2020-11-20T06:36:11.106Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "365 McLaughlin Cliffs, Cassandrashire, New Hampshire, Ecuador",
+        "city": "Cassandrashire",
+        "state": "New Hampshire",
+        "country": "Ecuador",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Bus Stand",
+                "Malls"
+            ],
+            "appox_footfall": "80990/day"
+        },
+        "nearest_major_city": "New Roberta",
+        "starting_price": "227.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "25858 sq. meters",
+        "title": "Barren Land 53",
+        "id": "80b025db-8402-4a12-8a63-e4842a1efa97",
+        "owner_contact_info": {
+            "full_name": "Randolph Kub",
+            "contact_number": "(900) 336-0794",
+            "address": "9039 Lelia Land, South Vicky, Minnesota, Armenia",
+            "email": "Aubrey_Prohaska@yahoo.com"
+        },
+        "acquired_on": "2020-03-31T23:05:44.659Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "0172 Buster Ridge, South Vicky, Minnesota, Armenia",
+        "city": "South Vicky",
+        "state": "Minnesota",
+        "country": "Armenia",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Bus Stand",
+                "Bus Stand"
+            ],
+            "appox_footfall": "88764/day"
+        },
+        "nearest_major_city": "Gutkowskichester",
+        "starting_price": "214.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "83213 sq. meters",
+        "title": "Barren Land 54",
+        "id": "c59a9faa-131b-4df2-8ed1-2dd710205770",
+        "owner_contact_info": {
+            "full_name": "Josephine Kshlerin Sr.",
+            "contact_number": "1-412-544-4274 x5517",
+            "address": "2974 Bartell Flats, Earlinebury, Nevada, Gibraltar",
+            "email": "Jada.Dare12@yahoo.com"
+        },
+        "acquired_on": "2020-04-07T12:38:32.172Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "20980 Nader Pike, Earlinebury, Nevada, Gibraltar",
+        "city": "Earlinebury",
+        "state": "Nevada",
+        "country": "Gibraltar",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Residential Area",
+                "Shops"
+            ],
+            "appox_footfall": "21635/day"
+        },
+        "nearest_major_city": "North Edwardbury",
+        "starting_price": "843.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "21640 sq. meters",
+        "title": "Barren Land 55",
+        "id": "9c1487de-c782-4511-a280-5561fb1e8f07",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-21T20:17:56.802Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "94867 Heller Lodge, West Salvatore, Colorado, Kenya",
+        "city": "West Salvatore",
+        "state": "Colorado",
+        "country": "Kenya",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Market",
+                "Malls"
+            ],
+            "appox_footfall": "53358/day"
+        },
+        "nearest_major_city": "Dayanaburgh",
+        "starting_price": "832.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "84750 sq. meters",
+        "title": "Barren Land 56",
+        "id": "00510726-7d0c-41b4-8d6d-1c2a6e963763",
+        "owner_contact_info": {
+            "full_name": "Mercedes Rempel",
+            "contact_number": "858.434.0319",
+            "address": "66100 Cole Valleys, Lake Bartholomemouth, South Dakota, Czech Republic",
+            "email": "Michaela_Stiedemann@hotmail.com"
+        },
+        "acquired_on": "2020-03-29T20:57:44.554Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "10817 Hassie Harbor, Lake Bartholomemouth, South Dakota, Czech Republic",
+        "city": "Lake Bartholomemouth",
+        "state": "South Dakota",
+        "country": "Czech Republic",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Railway Station",
+                "Monument"
+            ],
+            "appox_footfall": "39693/day"
+        },
+        "nearest_major_city": "Sengerburgh",
+        "starting_price": "416.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "66702 sq. meters",
+        "title": "Barren Land 57",
+        "id": "ee46fe7e-21e5-457c-b67f-c9691cc3a6cc",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-27T14:39:46.059Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "24917 Lorenza Forest, Lake Myrticebury, Louisiana, Saudi Arabia",
+        "city": "Lake Myrticebury",
+        "state": "Louisiana",
+        "country": "Saudi Arabia",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Malls",
+                null
+            ],
+            "appox_footfall": "96635/day"
+        },
+        "nearest_major_city": "Mantefurt",
+        "starting_price": "155.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "2625 sq. meters",
+        "title": "Barren Land 58",
+        "id": "cef0fbca-a92a-4b24-b50e-f9aa66ed8d27",
+        "owner_contact_info": {
+            "full_name": "Gina Fahey",
+            "contact_number": "337-867-5677 x3964",
+            "address": "178 Feest Lights, Labadieside, Nevada, Botswana",
+            "email": "Wilson78@yahoo.com"
+        },
+        "acquired_on": "2020-12-21T12:57:08.661Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "347 Rath Stream, Labadieside, Nevada, Botswana",
+        "city": "Labadieside",
+        "state": "Nevada",
+        "country": "Botswana",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Railway Station",
+                "Residential Area"
+            ],
+            "appox_footfall": "57607/day"
+        },
+        "nearest_major_city": "Emeliaberg",
+        "starting_price": "14.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "88409 sq. meters",
+        "title": "Barren Land 59",
+        "id": "4394af87-bee8-414e-8f40-7eab800af4cb",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-02-14T02:17:06.860Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "52925 Anderson Fort, Lake Andrewview, North Carolina, Virgin Islands, British",
+        "city": "Lake Andrewview",
+        "state": "North Carolina",
+        "country": "Virgin Islands, British",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Market",
+                "Restaurant"
+            ],
+            "appox_footfall": "35815/day"
+        },
+        "nearest_major_city": "Naomiemouth",
+        "starting_price": "270.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "57051 sq. meters",
+        "title": "Barren Land 60",
+        "id": "8f5198ae-ebc9-4dc6-b8f2-e9fada343465",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-09T23:10:50.253Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "88572 Casper River, New Cleo, Tennessee, Suriname",
+        "city": "New Cleo",
+        "state": "Tennessee",
+        "country": "Suriname",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Malls",
+                "Monument"
+            ],
+            "appox_footfall": "49939/day"
+        },
+        "nearest_major_city": "New Donavon",
+        "starting_price": "688.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "78509 sq. meters",
+        "title": "Barren Land 61",
+        "id": "adf7f321-928e-46f4-8287-8c68baeb6225",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-16T19:54:35.211Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "71138 Hermann Mall, West Ocie, Louisiana, Saint Vincent and the Grenadines",
+        "city": "West Ocie",
+        "state": "Louisiana",
+        "country": "Saint Vincent and the Grenadines",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Restaurant",
+                "Airport"
+            ],
+            "appox_footfall": "68125/day"
+        },
+        "nearest_major_city": "Nehaburgh",
+        "starting_price": "704.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "42152 sq. meters",
+        "title": "Barren Land 62",
+        "id": "cea6e5d3-4308-48a2-98bf-4ded115b7cb9",
+        "owner_contact_info": {
+            "full_name": "Jessie Schmidt",
+            "contact_number": "347-829-1607 x371",
+            "address": "381 Welch Island, East Celinemouth, West Virginia, Jordan",
+            "email": "Maci.Buckridge@hotmail.com"
+        },
+        "acquired_on": "2020-11-18T04:25:34.436Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "0731 Doyle Turnpike, East Celinemouth, West Virginia, Jordan",
+        "city": "East Celinemouth",
+        "state": "West Virginia",
+        "country": "Jordan",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Railway Station",
+                "Bus Stand"
+            ],
+            "appox_footfall": "94455/day"
+        },
+        "nearest_major_city": "East Tyrique",
+        "starting_price": "499.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "58235 sq. meters",
+        "title": "Barren Land 63",
+        "id": "64926667-db8c-45c5-9707-a2db2b5114ff",
+        "owner_contact_info": {
+            "full_name": "Eloise Rosenbaum",
+            "contact_number": "(943) 466-9414 x0783",
+            "address": "19526 Gennaro Summit, Lenorefort, Montana, Romania",
+            "email": "Ansley_Buckridge78@hotmail.com"
+        },
+        "acquired_on": "2020-12-05T19:36:38.230Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "293 Trever Key, Lenorefort, Montana, Romania",
+        "city": "Lenorefort",
+        "state": "Montana",
+        "country": "Romania",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Railway Station",
+                "Railway Station"
+            ],
+            "appox_footfall": "36065/day"
+        },
+        "nearest_major_city": "New Anthony",
+        "starting_price": "473.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "40524 sq. meters",
+        "title": "Barren Land 64",
+        "id": "38b29d7a-200c-4780-b6b0-4d730fbcd8fd",
+        "owner_contact_info": {
+            "full_name": "Rodolfo Upton",
+            "contact_number": "652-626-6011 x09552",
+            "address": "60288 Volkman Coves, Murphyfort, Rhode Island, Ukraine",
+            "email": "Junior_Mohr39@yahoo.com"
+        },
+        "acquired_on": "2020-03-22T13:10:47.477Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "3486 Armstrong Crest, Murphyfort, Rhode Island, Ukraine",
+        "city": "Murphyfort",
+        "state": "Rhode Island",
+        "country": "Ukraine",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                null,
+                "Malls"
+            ],
+            "appox_footfall": "65802/day"
+        },
+        "nearest_major_city": "New Dorianport",
+        "starting_price": "163.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "14821 sq. meters",
+        "title": "Barren Land 65",
+        "id": "362fd67d-8ce4-4c61-aa0f-fbe32935e11d",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-12T17:29:06.446Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "00085 Kyler Square, Windlerberg, Tennessee, Ghana",
+        "city": "Windlerberg",
+        "state": "Tennessee",
+        "country": "Ghana",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Shops",
+                "Monument"
+            ],
+            "appox_footfall": "38203/day"
+        },
+        "nearest_major_city": "Lake Jabariton",
+        "starting_price": "499.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "58073 sq. meters",
+        "title": "Barren Land 66",
+        "id": "482347a4-c592-43d2-943b-1aed6b41fd7d",
+        "owner_contact_info": {
+            "full_name": "Marc Kassulke",
+            "contact_number": "(772) 491-9461 x936",
+            "address": "920 Jerod Freeway, Fadelton, West Virginia, Israel",
+            "email": "Fredrick.Davis@yahoo.com"
+        },
+        "acquired_on": "2020-12-08T17:28:57.624Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "9118 Hazle Tunnel, Fadelton, West Virginia, Israel",
+        "city": "Fadelton",
+        "state": "West Virginia",
+        "country": "Israel",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Residential Area",
+                "Monument"
+            ],
+            "appox_footfall": "27844/day"
+        },
+        "nearest_major_city": "Lake Viviannehaven",
+        "starting_price": "590.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "34355 sq. meters",
+        "title": "Barren Land 67",
+        "id": "82d24576-c78b-49c7-9dfc-2a8b32241ffa",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-09T04:43:42.098Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "99847 Jamel Canyon, New Celia, Idaho, Cambodia",
+        "city": "New Celia",
+        "state": "Idaho",
+        "country": "Cambodia",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Residential Area",
+                "Monument"
+            ],
+            "appox_footfall": "13289/day"
+        },
+        "nearest_major_city": "East Gladyce",
+        "starting_price": "408.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "7010 sq. meters",
+        "title": "Barren Land 68",
+        "id": "fc056d73-caa1-46d8-a9d0-774354da698e",
+        "owner_contact_info": {
+            "full_name": "Nettie Daugherty IV",
+            "contact_number": "(302) 999-3058",
+            "address": "4290 Marilyne Knolls, Lake Kirsten, Idaho, Virgin Islands, British",
+            "email": "Ilene.Olson39@hotmail.com"
+        },
+        "acquired_on": "2020-04-20T07:05:57.276Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "4779 Champlin Lakes, Lake Kirsten, Idaho, Virgin Islands, British",
+        "city": "Lake Kirsten",
+        "state": "Idaho",
+        "country": "Virgin Islands, British",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Restaurant",
+                "Bus Stand"
+            ],
+            "appox_footfall": "21978/day"
+        },
+        "nearest_major_city": "West Jerelfurt",
+        "starting_price": "972.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "5319 sq. meters",
+        "title": "Barren Land 69",
+        "id": "472c8848-65f7-4c1f-af8d-722842346e0b",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-23T14:07:51.743Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "71116 Welch Highway, Solonmouth, New Hampshire, Timor-Leste",
+        "city": "Solonmouth",
+        "state": "New Hampshire",
+        "country": "Timor-Leste",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Shops",
+                "Airport"
+            ],
+            "appox_footfall": "2157/day"
+        },
+        "nearest_major_city": "New Emilio",
+        "starting_price": "95.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "28703 sq. meters",
+        "title": "Barren Land 70",
+        "id": "6f8f93d7-b822-44b7-87a6-ed58b847706a",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-19T00:21:26.979Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "890 Leila Stream, North Henryborough, New York, Turks and Caicos Islands",
+        "city": "North Henryborough",
+        "state": "New York",
+        "country": "Turks and Caicos Islands",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Bus Stand",
+                "Residential Area"
+            ],
+            "appox_footfall": "5195/day"
+        },
+        "nearest_major_city": "Port Baby",
+        "starting_price": "73.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "58980 sq. meters",
+        "title": "Barren Land 71",
+        "id": "65ca8b72-7a63-41cf-ba2f-c6918b7f8575",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-06T20:24:17.935Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "81272 Kiehn Glens, Taureanport, Oregon, Bulgaria",
+        "city": "Taureanport",
+        "state": "Oregon",
+        "country": "Bulgaria",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Railway Station",
+                null
+            ],
+            "appox_footfall": "70205/day"
+        },
+        "nearest_major_city": "Anahiville",
+        "starting_price": "613.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "3030 sq. meters",
+        "title": "Barren Land 72",
+        "id": "34125b0b-461a-4b41-9ae5-3509b5d8f03c",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-21T12:01:50.473Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "237 Ansel Lakes, Port Minnieshire, Michigan, Australia",
+        "city": "Port Minnieshire",
+        "state": "Michigan",
+        "country": "Australia",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Monument",
+                "Restaurant"
+            ],
+            "appox_footfall": "70222/day"
+        },
+        "nearest_major_city": "Lake Landenfort",
+        "starting_price": "549.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "38501 sq. meters",
+        "title": "Barren Land 73",
+        "id": "2a6e45c5-b9db-4a21-a6d1-1096b7a94f5b",
+        "owner_contact_info": {
+            "full_name": "Ervin Steuber",
+            "contact_number": "311-959-9093",
+            "address": "824 Winifred Turnpike, New Audramouth, Ohio, Uganda",
+            "email": "Ryleigh_Blanda@gmail.com"
+        },
+        "acquired_on": "2020-12-11T02:32:16.073Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "638 Uriel Hollow, New Audramouth, Ohio, Uganda",
+        "city": "New Audramouth",
+        "state": "Ohio",
+        "country": "Uganda",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Garden",
+                "Monument"
+            ],
+            "appox_footfall": "3711/day"
+        },
+        "nearest_major_city": "Mannhaven",
+        "starting_price": "992.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "97467 sq. meters",
+        "title": "Barren Land 74",
+        "id": "11c4da59-d8f5-4ef9-905a-20a43f087f5b",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-15T18:49:19.456Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "922 Garfield Cove, Cassinmouth, Washington, Latvia",
+        "city": "Cassinmouth",
+        "state": "Washington",
+        "country": "Latvia",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Railway Station",
+                "Malls"
+            ],
+            "appox_footfall": "21671/day"
+        },
+        "nearest_major_city": "North Danykamouth",
+        "starting_price": "812.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "88905 sq. meters",
+        "title": "Barren Land 75",
+        "id": "c8f4e943-6a09-4787-8635-8fb7df4cd5dd",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-29T15:02:47.712Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "539 Rogahn Ridges, Paytonhaven, West Virginia, Northern Mariana Islands",
+        "city": "Paytonhaven",
+        "state": "West Virginia",
+        "country": "Northern Mariana Islands",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Residential Area",
+                "Railway Station"
+            ],
+            "appox_footfall": "95441/day"
+        },
+        "nearest_major_city": "Saraifort",
+        "starting_price": "693.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "59376 sq. meters",
+        "title": "Barren Land 76",
+        "id": "68601a6a-c435-4de4-a607-628ff4790355",
+        "owner_contact_info": {
+            "full_name": "Katherine Hamill",
+            "contact_number": "448-506-0046 x4443",
+            "address": "763 Zulauf Square, Port Antwan, Nevada, Kuwait",
+            "email": "Jaydon_Haag@yahoo.com"
+        },
+        "acquired_on": "2020-07-03T04:51:20.898Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "99863 Tobin Light, Port Antwan, Nevada, Kuwait",
+        "city": "Port Antwan",
+        "state": "Nevada",
+        "country": "Kuwait",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Restaurant",
+                "Garden"
+            ],
+            "appox_footfall": "73528/day"
+        },
+        "nearest_major_city": "South Madysonview",
+        "starting_price": "951.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "2623 sq. meters",
+        "title": "Barren Land 77",
+        "id": "bfc31f23-209f-43d8-b038-f702d70d53c0",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-28T07:41:59.102Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "8835 Harvey Village, Lisettefort, Kentucky, Guadeloupe",
+        "city": "Lisettefort",
+        "state": "Kentucky",
+        "country": "Guadeloupe",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Bus Stand",
+                "Monument"
+            ],
+            "appox_footfall": "17586/day"
+        },
+        "nearest_major_city": "Leilaniside",
+        "starting_price": "595.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "59834 sq. meters",
+        "title": "Barren Land 78",
+        "id": "e40a7d67-1405-479b-b4ae-2a039a573236",
+        "owner_contact_info": {
+            "full_name": "Jeremiah Flatley",
+            "contact_number": "(915) 297-8965 x67822",
+            "address": "1554 Morris Loaf, Joaniechester, Arkansas, Albania",
+            "email": "Cassie13@yahoo.com"
+        },
+        "acquired_on": "2020-03-04T18:53:07.600Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "645 Dominique Crossing, Joaniechester, Arkansas, Albania",
+        "city": "Joaniechester",
+        "state": "Arkansas",
+        "country": "Albania",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Railway Station",
+                "Residential Area"
+            ],
+            "appox_footfall": "75072/day"
+        },
+        "nearest_major_city": "East Ronny",
+        "starting_price": "30.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "70998 sq. meters",
+        "title": "Barren Land 79",
+        "id": "92743c63-dd7d-4bef-90e0-92c36dae791e",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-07-17T05:04:07.608Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "34986 Gus Pines, Wunschburgh, Oregon, Kazakhstan",
+        "city": "Wunschburgh",
+        "state": "Oregon",
+        "country": "Kazakhstan",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                null,
+                "Monument"
+            ],
+            "appox_footfall": "59013/day"
+        },
+        "nearest_major_city": "Port Lorenfurt",
+        "starting_price": "695.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "92764 sq. meters",
+        "title": "Barren Land 80",
+        "id": "54db8e67-d261-4424-84a2-6bb9d2d9ec19",
+        "owner_contact_info": {
+            "full_name": "Kate Flatley Sr.",
+            "contact_number": "1-971-406-6242",
+            "address": "1360 Pfeffer Pine, New Adeline, North Dakota, Malaysia",
+            "email": "Lorenzo.Pacocha@gmail.com"
+        },
+        "acquired_on": "2020-10-24T14:47:21.577Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "423 Guiseppe Terrace, New Adeline, North Dakota, Malaysia",
+        "city": "New Adeline",
+        "state": "North Dakota",
+        "country": "Malaysia",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Residential Area",
+                "Airport"
+            ],
+            "appox_footfall": "97318/day"
+        },
+        "nearest_major_city": "New Erikafort",
+        "starting_price": "822.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "83099 sq. meters",
+        "title": "Barren Land 81",
+        "id": "bbf9a252-c3df-4f88-9865-77dc8f8fb90d",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-20T02:55:58.642Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "654 Wintheiser Island, Arnulfofurt, North Dakota, Thailand",
+        "city": "Arnulfofurt",
+        "state": "North Dakota",
+        "country": "Thailand",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Malls",
+                "Malls"
+            ],
+            "appox_footfall": "13692/day"
+        },
+        "nearest_major_city": "Cormierhaven",
+        "starting_price": "484.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "23722 sq. meters",
+        "title": "Barren Land 82",
+        "id": "9f723e80-1f8d-474b-9b09-d72af371c250",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-04T05:41:02.217Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "19848 Tromp Ville, Kobyton, Idaho, French Southern Territories",
+        "city": "Kobyton",
+        "state": "Idaho",
+        "country": "French Southern Territories",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Restaurant",
+                "Residential Area"
+            ],
+            "appox_footfall": "45152/day"
+        },
+        "nearest_major_city": "East Selenaview",
+        "starting_price": "836.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "56889 sq. meters",
+        "title": "Barren Land 83",
+        "id": "3bf4689b-2d4d-447c-b92f-2714274150ab",
+        "owner_contact_info": {
+            "full_name": "Jaime Haag",
+            "contact_number": "(429) 742-4690",
+            "address": "8395 Hickle Summit, East Kiana, Georgia, Vietnam",
+            "email": "Trycia_Parker@hotmail.com"
+        },
+        "acquired_on": "2020-07-13T03:28:44.044Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "7913 Cortney Mount, East Kiana, Georgia, Vietnam",
+        "city": "East Kiana",
+        "state": "Georgia",
+        "country": "Vietnam",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Residential Area",
+                "Bus Stand"
+            ],
+            "appox_footfall": "68262/day"
+        },
+        "nearest_major_city": "Jerryberg",
+        "starting_price": "660.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "7157 sq. meters",
+        "title": "Barren Land 84",
+        "id": "65bf5dd8-231e-494d-a962-ee67215b84bb",
+        "owner_contact_info": {
+            "full_name": "Mrs. Antoinette Ziemann",
+            "contact_number": "(683) 495-9538 x78997",
+            "address": "461 Toy Tunnel, Jorgehaven, Iowa, Singapore",
+            "email": "Marvin.Walker87@hotmail.com"
+        },
+        "acquired_on": "2020-07-09T15:04:05.088Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "644 Celestine Well, Jorgehaven, Iowa, Singapore",
+        "city": "Jorgehaven",
+        "state": "Iowa",
+        "country": "Singapore",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Garden",
+                "Restaurant"
+            ],
+            "appox_footfall": "51550/day"
+        },
+        "nearest_major_city": "Prohaskaton",
+        "starting_price": "44.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "20539 sq. meters",
+        "title": "Barren Land 85",
+        "id": "1fb64fb4-e675-446f-bd22-5ca3587a2119",
+        "owner_contact_info": {
+            "full_name": "Courtney Labadie DVM",
+            "contact_number": "617-379-0350",
+            "address": "75592 Dillan Mall, Swaniawskiland, West Virginia, Macao",
+            "email": "Providenci.Boehm11@hotmail.com"
+        },
+        "acquired_on": "2020-03-28T11:08:44.961Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "0549 Greenfelder Flat, Swaniawskiland, West Virginia, Macao",
+        "city": "Swaniawskiland",
+        "state": "West Virginia",
+        "country": "Macao",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Garden",
+                "Railway Station"
+            ],
+            "appox_footfall": "84574/day"
+        },
+        "nearest_major_city": "Jerelport",
+        "starting_price": "390.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "41329 sq. meters",
+        "title": "Barren Land 86",
+        "id": "869a20df-87bc-486b-b327-4700d08fbb75",
+        "owner_contact_info": {
+            "full_name": "Edmund Bernier",
+            "contact_number": "914-439-7959 x570",
+            "address": "08686 Rigoberto Green, South Sydneychester, Louisiana, Cameroon",
+            "email": "Enid_Koss51@gmail.com"
+        },
+        "acquired_on": "2020-09-10T13:02:45.615Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "656 Magali Spur, South Sydneychester, Louisiana, Cameroon",
+        "city": "South Sydneychester",
+        "state": "Louisiana",
+        "country": "Cameroon",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Malls",
+                "Garden"
+            ],
+            "appox_footfall": "24952/day"
+        },
+        "nearest_major_city": "Lake Blakehaven",
+        "starting_price": "67.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "85267 sq. meters",
+        "title": "Barren Land 87",
+        "id": "8b5d3718-d898-4c98-a6f0-5220b9896147",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-08-24T12:23:07.519Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "3720 Elenora Bridge, North Mckenzieside, Washington, Trinidad and Tobago",
+        "city": "North Mckenzieside",
+        "state": "Washington",
+        "country": "Trinidad and Tobago",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Restaurant",
+                "Residential Area"
+            ],
+            "appox_footfall": "37958/day"
+        },
+        "nearest_major_city": "Lottieside",
+        "starting_price": "437.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "71141 sq. meters",
+        "title": "Barren Land 88",
+        "id": "de31a58b-2622-40fb-a96e-9316ad9c0507",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-19T02:44:28.307Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "5860 Osbaldo Ranch, North Alfredborough, Georgia, Belize",
+        "city": "North Alfredborough",
+        "state": "Georgia",
+        "country": "Belize",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Shops",
+                "Malls"
+            ],
+            "appox_footfall": "12048/day"
+        },
+        "nearest_major_city": "Pietroview",
+        "starting_price": "529.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "19695 sq. meters",
+        "title": "Barren Land 89",
+        "id": "35b06eef-9188-45cb-8e50-8da4426cdae8",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-16T10:16:44.372Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "673 Harris Port, Karlfort, Kansas, Malta",
+        "city": "Karlfort",
+        "state": "Kansas",
+        "country": "Malta",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Bus Stand",
+                "Restaurant"
+            ],
+            "appox_footfall": "97193/day"
+        },
+        "nearest_major_city": "Klingchester",
+        "starting_price": "771.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "88598 sq. meters",
+        "title": "Barren Land 90",
+        "id": "88ff3ccb-28a2-4efe-ab82-ae2bda3120c3",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-12T10:39:51.499Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "2910 Ezekiel Track, North Santafurt, Tennessee, Bangladesh",
+        "city": "North Santafurt",
+        "state": "Tennessee",
+        "country": "Bangladesh",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Monument",
+                "Garden"
+            ],
+            "appox_footfall": "44468/day"
+        },
+        "nearest_major_city": "Christianamouth",
+        "starting_price": "5.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "46111 sq. meters",
+        "title": "Barren Land 91",
+        "id": "9224f19b-083c-4ae6-9cf6-3455d0159563",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-27T07:16:21.105Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "1069 Cruickshank Lodge, South Michelville, Missouri, United States Minor Outlying Islands",
+        "city": "South Michelville",
+        "state": "Missouri",
+        "country": "United States Minor Outlying Islands",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Malls",
+                "Garden"
+            ],
+            "appox_footfall": "29601/day"
+        },
+        "nearest_major_city": "Jenkinsbury",
+        "starting_price": "89.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "31654 sq. meters",
+        "title": "Barren Land 92",
+        "id": "dcebb064-c709-4ca9-a095-a8c7c9ef133a",
+        "owner_contact_info": {
+            "full_name": "Troy O'Hara",
+            "contact_number": "453-266-1005 x9934",
+            "address": "6638 Bartoletti Flat, East Paige, Pennsylvania, Tanzania",
+            "email": "Dillon95@hotmail.com"
+        },
+        "acquired_on": "2020-08-14T14:42:19.194Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "9281 Bahringer Locks, East Paige, Pennsylvania, Tanzania",
+        "city": "East Paige",
+        "state": "Pennsylvania",
+        "country": "Tanzania",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Monument",
+                "Monument"
+            ],
+            "appox_footfall": "16789/day"
+        },
+        "nearest_major_city": "Lake Bryana",
+        "starting_price": "730.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "85203 sq. meters",
+        "title": "Barren Land 93",
+        "id": "013780e9-15f0-4ed0-b2e0-038b16ae9841",
+        "owner_contact_info": {
+            "full_name": "Joey Roob DVM",
+            "contact_number": "1-655-442-9331",
+            "address": "215 Gerlach Inlet, North Justinestad, Connecticut, Netherlands",
+            "email": "Jennyfer.Hegmann@gmail.com"
+        },
+        "acquired_on": "2020-06-30T07:36:10.021Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "48552 Kemmer Road, North Justinestad, Connecticut, Netherlands",
+        "city": "North Justinestad",
+        "state": "Connecticut",
+        "country": "Netherlands",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Monument",
+                "Malls"
+            ],
+            "appox_footfall": "77924/day"
+        },
+        "nearest_major_city": "Mosciskiville",
+        "starting_price": "789.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "75468 sq. meters",
+        "title": "Barren Land 94",
+        "id": "e97fa3f5-31e8-47cd-9dfc-80d3e2ef3988",
+        "owner_contact_info": {
+            "full_name": "Edward Dietrich",
+            "contact_number": "(333) 862-8734 x06213",
+            "address": "2142 Eleanore Union, Hamillberg, New York, Pakistan",
+            "email": "Gideon_Strosin@gmail.com"
+        },
+        "acquired_on": "2020-06-17T05:03:47.799Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "990 Huel Landing, Hamillberg, New York, Pakistan",
+        "city": "Hamillberg",
+        "state": "New York",
+        "country": "Pakistan",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Shops",
+                "Airport"
+            ],
+            "appox_footfall": "12761/day"
+        },
+        "nearest_major_city": "Luigiland",
+        "starting_price": "521.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "96999 sq. meters",
+        "title": "Barren Land 95",
+        "id": "dfc83a1f-1fa6-4da3-9cf5-a594b83a3606",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-11-09T16:58:00.359Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "847 Nash Mountains, East Ellis, Mississippi, Myanmar",
+        "city": "East Ellis",
+        "state": "Mississippi",
+        "country": "Myanmar",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Bus Stand",
+                "Malls"
+            ],
+            "appox_footfall": "38641/day"
+        },
+        "nearest_major_city": "Corymouth",
+        "starting_price": "962.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "32327 sq. meters",
+        "title": "Barren Land 96",
+        "id": "af6abae6-5881-469d-bf0b-43743b3a3c9c",
+        "owner_contact_info": {
+            "full_name": "Jan Keebler DVM",
+            "contact_number": "1-584-222-9472",
+            "address": "4948 Nienow Road, Port Noel, Mississippi, Japan",
+            "email": "Felix.Bruen37@hotmail.com"
+        },
+        "acquired_on": "2020-05-03T07:44:43.409Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "350 Donna Drive, Port Noel, Mississippi, Japan",
+        "city": "Port Noel",
+        "state": "Mississippi",
+        "country": "Japan",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Residential Area",
+                "Airport"
+            ],
+            "appox_footfall": "13967/day"
+        },
+        "nearest_major_city": "Hazeltown",
+        "starting_price": "445.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "19017 sq. meters",
+        "title": "Barren Land 97",
+        "id": "ae167307-d4b9-4536-8e30-99b349fbca18",
+        "owner_contact_info": {
+            "full_name": "Bennie Waelchi",
+            "contact_number": "1-351-906-8181",
+            "address": "99110 Ernesto Pike, East Eden, New York, Netherlands",
+            "email": "Selena.Mills@yahoo.com"
+        },
+        "acquired_on": "2021-01-19T03:44:17.024Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "031 Berge Shoals, East Eden, New York, Netherlands",
+        "city": "East Eden",
+        "state": "New York",
+        "country": "Netherlands",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Restaurant",
+                "Airport"
+            ],
+            "appox_footfall": "86085/day"
+        },
+        "nearest_major_city": "Annamaechester",
+        "starting_price": "733.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "11857 sq. meters",
+        "title": "Barren Land 98",
+        "id": "69397f12-ebb1-4798-a9b3-d352ab6b6f6a",
+        "owner_contact_info": {
+            "full_name": "Kenny Dickinson",
+            "contact_number": "(527) 796-2731 x163",
+            "address": "3842 Cierra Path, East Chester, Texas, Trinidad and Tobago",
+            "email": "Brandon.Marquardt@yahoo.com"
+        },
+        "acquired_on": "2020-09-08T17:38:54.347Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "9716 Nitzsche Land, East Chester, Texas, Trinidad and Tobago",
+        "city": "East Chester",
+        "state": "Texas",
+        "country": "Trinidad and Tobago",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Garden",
+                "Garden"
+            ],
+            "appox_footfall": "41495/day"
+        },
+        "nearest_major_city": "Lake Claudia",
+        "starting_price": "488.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "85080 sq. meters",
+        "title": "Barren Land 99",
+        "id": "c81db468-04fc-4282-bd55-bb6dd58cf540",
+        "owner_contact_info": {
+            "full_name": "Marty Schamberger",
+            "contact_number": "(206) 428-1281",
+            "address": "96490 Steuber Burg, Makennafort, Ohio, Ecuador",
+            "email": "Jamil_Mosciski@yahoo.com"
+        },
+        "acquired_on": "2020-05-14T01:47:22.932Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "79892 Wolff Tunnel, Makennafort, Ohio, Ecuador",
+        "city": "Makennafort",
+        "state": "Ohio",
+        "country": "Ecuador",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Market",
+                "Garden"
+            ],
+            "appox_footfall": "55239/day"
+        },
+        "nearest_major_city": "West Elenor",
+        "starting_price": "850.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "45398 sq. meters",
+        "title": "Barren Land 100",
+        "id": "635b349d-3770-443b-8c30-efdac2f32abe",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-05T13:09:31.754Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "705 Maude Knoll, Port Carlimouth, Ohio, Taiwan",
+        "city": "Port Carlimouth",
+        "state": "Ohio",
+        "country": "Taiwan",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Shops",
+                "Market"
+            ],
+            "appox_footfall": "21384/day"
+        },
+        "nearest_major_city": "West Leonelfurt",
+        "starting_price": "107.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "35723 sq. meters",
+        "title": "Barren Land 101",
+        "id": "6d60bd90-ff8d-4bb7-8894-1acfe072ee99",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-30T21:57:07.827Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "772 Raul Way, East Ericka, Missouri, Montenegro",
+        "city": "East Ericka",
+        "state": "Missouri",
+        "country": "Montenegro",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Restaurant",
+                "Monument"
+            ],
+            "appox_footfall": "60145/day"
+        },
+        "nearest_major_city": "Dickibury",
+        "starting_price": "967.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "79378 sq. meters",
+        "title": "Barren Land 102",
+        "id": "9f6eb5f9-7374-456a-a4db-79ab5b2e1a40",
+        "owner_contact_info": {
+            "full_name": "Rosemary Gusikowski",
+            "contact_number": "804-668-0468 x88810",
+            "address": "116 Runolfsdottir Rapids, Stromanfort, North Carolina, Fiji",
+            "email": "Antwan.Klocko85@gmail.com"
+        },
+        "acquired_on": "2020-12-15T22:40:49.161Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "14496 Bashirian Manors, Stromanfort, North Carolina, Fiji",
+        "city": "Stromanfort",
+        "state": "North Carolina",
+        "country": "Fiji",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Railway Station",
+                "Railway Station"
+            ],
+            "appox_footfall": "30359/day"
+        },
+        "nearest_major_city": "Lake Jaqueline",
+        "starting_price": "953.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "94277 sq. meters",
+        "title": "Barren Land 103",
+        "id": "6a6339b6-77fc-4434-bc59-10c0c35edd4f",
+        "owner_contact_info": {
+            "full_name": "Ms. Lloyd Schulist",
+            "contact_number": "1-893-417-6185 x62625",
+            "address": "119 Kertzmann Plains, New Courtneyport, Massachusetts, Dominican Republic",
+            "email": "Elenora45@yahoo.com"
+        },
+        "acquired_on": "2020-11-16T15:11:30.726Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "775 Sophia Fords, New Courtneyport, Massachusetts, Dominican Republic",
+        "city": "New Courtneyport",
+        "state": "Massachusetts",
+        "country": "Dominican Republic",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Malls",
+                null
+            ],
+            "appox_footfall": "76904/day"
+        },
+        "nearest_major_city": "New Lois",
+        "starting_price": "78.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "58895 sq. meters",
+        "title": "Barren Land 104",
+        "id": "29be7df8-cbc2-4d5f-87d4-071c49e65abc",
+        "owner_contact_info": {
+            "full_name": "Marcella Volkman",
+            "contact_number": "478-254-9318 x5734",
+            "address": "3193 Samson Radial, New Flavio, Wyoming, Cuba",
+            "email": "Annamarie_Cruickshank66@hotmail.com"
+        },
+        "acquired_on": "2020-11-14T16:53:12.978Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "706 Prince Light, New Flavio, Wyoming, Cuba",
+        "city": "New Flavio",
+        "state": "Wyoming",
+        "country": "Cuba",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Malls",
+                "Railway Station"
+            ],
+            "appox_footfall": "94550/day"
+        },
+        "nearest_major_city": "Ricestad",
+        "starting_price": "723.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "94612 sq. meters",
+        "title": "Barren Land 105",
+        "id": "98d25e6a-bf2a-4e16-a495-a4a94eb535b4",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-15T00:42:55.114Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "53404 Graham Crossing, South Jessyca, Tennessee, Nepal",
+        "city": "South Jessyca",
+        "state": "Tennessee",
+        "country": "Nepal",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Malls",
+                "Restaurant"
+            ],
+            "appox_footfall": "60000/day"
+        },
+        "nearest_major_city": "Wintheiserport",
+        "starting_price": "923.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "83312 sq. meters",
+        "title": "Barren Land 106",
+        "id": "36a43e2c-034a-42f0-8dac-6c13df3a8f59",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-08T01:46:14.362Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "80542 Pamela Radial, West Destineyfurt, Massachusetts, Uruguay",
+        "city": "West Destineyfurt",
+        "state": "Massachusetts",
+        "country": "Uruguay",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Bus Stand",
+                "Residential Area"
+            ],
+            "appox_footfall": "62796/day"
+        },
+        "nearest_major_city": "New Katlynn",
+        "starting_price": "629.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "60039 sq. meters",
+        "title": "Barren Land 107",
+        "id": "9e55cc42-929b-49f3-b46f-b5c043c89c53",
+        "owner_contact_info": {
+            "full_name": "Ed Schultz",
+            "contact_number": "220-258-9649 x3498",
+            "address": "609 Laron Fall, Eastermouth, Oklahoma, Myanmar",
+            "email": "Chasity.Weimann21@yahoo.com"
+        },
+        "acquired_on": "2020-11-25T00:14:27.775Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "26695 Mertz Valleys, Eastermouth, Oklahoma, Myanmar",
+        "city": "Eastermouth",
+        "state": "Oklahoma",
+        "country": "Myanmar",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Garden",
+                "Bus Stand"
+            ],
+            "appox_footfall": "73850/day"
+        },
+        "nearest_major_city": "West Colton",
+        "starting_price": "790.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "67903 sq. meters",
+        "title": "Barren Land 108",
+        "id": "ac54bf95-c935-4dd0-878a-fe7c981cbeff",
+        "owner_contact_info": {
+            "full_name": "Deanna Rempel II",
+            "contact_number": "246-535-4139 x42656",
+            "address": "68404 Shany Shoal, New Antonette, Arizona, Luxembourg",
+            "email": "Cleo.Ondricka36@gmail.com"
+        },
+        "acquired_on": "2020-09-18T14:41:57.257Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "90187 Spencer Rapid, New Antonette, Arizona, Luxembourg",
+        "city": "New Antonette",
+        "state": "Arizona",
+        "country": "Luxembourg",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Airport",
+                null
+            ],
+            "appox_footfall": "53339/day"
+        },
+        "nearest_major_city": "Doloresville",
+        "starting_price": "754.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "87770 sq. meters",
+        "title": "Barren Land 109",
+        "id": "7abaff4c-92b7-4e4a-be0f-3066ffe59875",
+        "owner_contact_info": {
+            "full_name": "Kristina Johns",
+            "contact_number": "(955) 357-1600 x6237",
+            "address": "88967 Lori Park, East Walker, Iowa, Bulgaria",
+            "email": "Andy_Olson6@yahoo.com"
+        },
+        "acquired_on": "2020-02-24T21:43:07.480Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "36207 Powlowski Rest, East Walker, Iowa, Bulgaria",
+        "city": "East Walker",
+        "state": "Iowa",
+        "country": "Bulgaria",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Bus Stand",
+                "Airport"
+            ],
+            "appox_footfall": "63073/day"
+        },
+        "nearest_major_city": "New Elvieshire",
+        "starting_price": "192.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "23628 sq. meters",
+        "title": "Barren Land 110",
+        "id": "ffae8940-6483-4cce-82dc-6238b494389c",
+        "owner_contact_info": {
+            "full_name": "Diana Lueilwitz",
+            "contact_number": "(254) 223-1993 x6731",
+            "address": "20019 Denesik Gateway, East Aimeeland, New Mexico, Djibouti",
+            "email": "Caterina_Jenkins@yahoo.com"
+        },
+        "acquired_on": "2021-01-21T00:45:16.619Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "122 Moore Junction, East Aimeeland, New Mexico, Djibouti",
+        "city": "East Aimeeland",
+        "state": "New Mexico",
+        "country": "Djibouti",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Monument",
+                "Market"
+            ],
+            "appox_footfall": "62149/day"
+        },
+        "nearest_major_city": "Jacintoborough",
+        "starting_price": "59.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "25865 sq. meters",
+        "title": "Barren Land 111",
+        "id": "43860d88-2569-4b5f-9da7-a3baac3396b9",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-08-02T10:42:46.497Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "47782 Annie Greens, North Alexane, Iowa, Saint Lucia",
+        "city": "North Alexane",
+        "state": "Iowa",
+        "country": "Saint Lucia",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Market",
+                "Airport"
+            ],
+            "appox_footfall": "53615/day"
+        },
+        "nearest_major_city": "Rachellestad",
+        "starting_price": "976.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "62441 sq. meters",
+        "title": "Barren Land 112",
+        "id": "062757c2-e9d9-4179-a407-15d5f0bf2d97",
+        "owner_contact_info": {
+            "full_name": "Terri Hagenes III",
+            "contact_number": "817.805.3888 x39417",
+            "address": "295 Stiedemann Rest, Lake Cynthiatown, Alaska, Tuvalu",
+            "email": "Rahul79@yahoo.com"
+        },
+        "acquired_on": "2020-07-09T10:13:38.747Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "6279 Jacobson Glens, Lake Cynthiatown, Alaska, Tuvalu",
+        "city": "Lake Cynthiatown",
+        "state": "Alaska",
+        "country": "Tuvalu",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Market",
+                "Restaurant"
+            ],
+            "appox_footfall": "18040/day"
+        },
+        "nearest_major_city": "Aufderharberg",
+        "starting_price": "56.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "32437 sq. meters",
+        "title": "Barren Land 113",
+        "id": "81d78bbc-ea2d-468d-a196-a57f1e440629",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-15T00:37:29.787Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "5002 Arely Rapid, North Jerrod, North Dakota, Guadeloupe",
+        "city": "North Jerrod",
+        "state": "North Dakota",
+        "country": "Guadeloupe",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Airport",
+                "Shops"
+            ],
+            "appox_footfall": "43771/day"
+        },
+        "nearest_major_city": "West Sibyl",
+        "starting_price": "716.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "51725 sq. meters",
+        "title": "Barren Land 114",
+        "id": "7d577f2b-3019-4bc2-9a41-2e100d68fa65",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-08-21T20:26:31.165Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "10338 Cronin Port, Port Alta, Iowa, Iceland",
+        "city": "Port Alta",
+        "state": "Iowa",
+        "country": "Iceland",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Garden",
+                "Residential Area"
+            ],
+            "appox_footfall": "58849/day"
+        },
+        "nearest_major_city": "South Omerhaven",
+        "starting_price": "501.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "52174 sq. meters",
+        "title": "Barren Land 115",
+        "id": "19b662a6-dcca-44ef-9be5-9d45b9c7be58",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-12-02T15:24:12.642Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "4502 Alford Rue, Skilesville, Iowa, Ghana",
+        "city": "Skilesville",
+        "state": "Iowa",
+        "country": "Ghana",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Airport",
+                "Bus Stand"
+            ],
+            "appox_footfall": "91242/day"
+        },
+        "nearest_major_city": "Nataliaborough",
+        "starting_price": "344.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "92216 sq. meters",
+        "title": "Barren Land 116",
+        "id": "20a55a50-1592-4bf5-bee1-76ea03f2f32b",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-26T18:41:54.567Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "036 Khalid Glen, Wittingchester, Arizona, Albania",
+        "city": "Wittingchester",
+        "state": "Arizona",
+        "country": "Albania",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Airport",
+                "Residential Area"
+            ],
+            "appox_footfall": "55054/day"
+        },
+        "nearest_major_city": "Lukasburgh",
+        "starting_price": "841.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "40534 sq. meters",
+        "title": "Barren Land 117",
+        "id": "4da70330-58c8-4117-9c69-4b9aa4f3024b",
+        "owner_contact_info": {
+            "full_name": "Vernon Anderson",
+            "contact_number": "(363) 725-7075",
+            "address": "165 Dennis Plains, Wilfredoborough, Virginia, Philippines",
+            "email": "Jordan.Hettinger36@yahoo.com"
+        },
+        "acquired_on": "2020-09-19T04:31:21.178Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "476 Lynch Mills, Wilfredoborough, Virginia, Philippines",
+        "city": "Wilfredoborough",
+        "state": "Virginia",
+        "country": "Philippines",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Bus Stand",
+                "Bus Stand"
+            ],
+            "appox_footfall": "94801/day"
+        },
+        "nearest_major_city": "West Kaydenshire",
+        "starting_price": "622.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "72613 sq. meters",
+        "title": "Barren Land 118",
+        "id": "9cda566d-feef-4e8d-9f6b-2ab465470873",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-02-28T11:23:48.090Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "41955 Quitzon Mountains, West Felixville, Vermont, Maldives",
+        "city": "West Felixville",
+        "state": "Vermont",
+        "country": "Maldives",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Restaurant",
+                "Monument"
+            ],
+            "appox_footfall": "34715/day"
+        },
+        "nearest_major_city": "North Retta",
+        "starting_price": "675.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "69063 sq. meters",
+        "title": "Barren Land 119",
+        "id": "e1f91b55-e522-47cb-88d3-73c7a2154216",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2021-01-01T00:36:41.211Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "79979 Eusebio River, Port Brycen, Colorado, Libyan Arab Jamahiriya",
+        "city": "Port Brycen",
+        "state": "Colorado",
+        "country": "Libyan Arab Jamahiriya",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Malls",
+                "Monument"
+            ],
+            "appox_footfall": "84419/day"
+        },
+        "nearest_major_city": "Quigleyland",
+        "starting_price": "727.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "38382 sq. meters",
+        "title": "Barren Land 120",
+        "id": "b0ea05e4-2a29-4214-a40d-4b1a171ba2a2",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-10T15:06:32.408Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "0103 Strosin Springs, Candidofurt, Mississippi, Algeria",
+        "city": "Candidofurt",
+        "state": "Mississippi",
+        "country": "Algeria",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Restaurant",
+                "Bus Stand"
+            ],
+            "appox_footfall": "82675/day"
+        },
+        "nearest_major_city": "Thaddeusside",
+        "starting_price": "409.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "94012 sq. meters",
+        "title": "Barren Land 121",
+        "id": "effd7ec5-f73e-4b9f-bd4d-851e7006ee92",
+        "owner_contact_info": {
+            "full_name": "Jean Kuhic",
+            "contact_number": "629-399-0242 x0961",
+            "address": "6898 Herzog Rest, Makaylatown, Connecticut, United Arab Emirates",
+            "email": "Margarett15@gmail.com"
+        },
+        "acquired_on": "2020-08-02T14:12:31.734Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "2472 Mackenzie Place, Makaylatown, Connecticut, United Arab Emirates",
+        "city": "Makaylatown",
+        "state": "Connecticut",
+        "country": "United Arab Emirates",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Garden",
+                "Residential Area"
+            ],
+            "appox_footfall": "9991/day"
+        },
+        "nearest_major_city": "North Cyrusmouth",
+        "starting_price": "303.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "70873 sq. meters",
+        "title": "Barren Land 122",
+        "id": "53277419-695e-4fb8-9b2e-b8890c68db77",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-15T11:46:19.443Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "840 Maureen Manors, Thielmouth, North Carolina, Maldives",
+        "city": "Thielmouth",
+        "state": "North Carolina",
+        "country": "Maldives",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Bus Stand",
+                "Bus Stand"
+            ],
+            "appox_footfall": "98494/day"
+        },
+        "nearest_major_city": "Dakotaview",
+        "starting_price": "141.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "53874 sq. meters",
+        "title": "Barren Land 123",
+        "id": "507a36a5-dc18-47d1-aa2c-53ecc0b60138",
+        "owner_contact_info": {
+            "full_name": "Annette Kris",
+            "contact_number": "1-324-865-2059 x6004",
+            "address": "489 Delilah Hill, North Isabelleview, Tennessee, Puerto Rico",
+            "email": "Jamil.Brakus@gmail.com"
+        },
+        "acquired_on": "2020-12-02T22:43:55.780Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "69159 Kiarra Greens, North Isabelleview, Tennessee, Puerto Rico",
+        "city": "North Isabelleview",
+        "state": "Tennessee",
+        "country": "Puerto Rico",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Monument",
+                "Malls"
+            ],
+            "appox_footfall": "67840/day"
+        },
+        "nearest_major_city": "South Leola",
+        "starting_price": "564.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "24690 sq. meters",
+        "title": "Barren Land 124",
+        "id": "bd96fa5a-8ce3-474b-88f7-01f61c634d3a",
+        "owner_contact_info": {
+            "full_name": "Laurence Botsford",
+            "contact_number": "516.510.2487",
+            "address": "70814 Hammes Streets, Port Erynshire, Florida, Republic of Korea",
+            "email": "Josh95@gmail.com"
+        },
+        "acquired_on": "2020-10-13T09:02:46.599Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "70071 Cristopher Crossroad, Port Erynshire, Florida, Republic of Korea",
+        "city": "Port Erynshire",
+        "state": "Florida",
+        "country": "Republic of Korea",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Residential Area",
+                "Market"
+            ],
+            "appox_footfall": "86358/day"
+        },
+        "nearest_major_city": "Benniebury",
+        "starting_price": "46.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "13629 sq. meters",
+        "title": "Barren Land 125",
+        "id": "07e5ab8b-f7ca-44f3-982a-0bc76def604e",
+        "owner_contact_info": {
+            "full_name": "Miss Irvin Conn",
+            "contact_number": "734.572.2979 x1431",
+            "address": "6536 Tom Trail, New Jarvisland, Utah, Cook Islands",
+            "email": "Isidro_Cormier@yahoo.com"
+        },
+        "acquired_on": "2020-06-09T18:44:54.696Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "4860 Hansen Fords, New Jarvisland, Utah, Cook Islands",
+        "city": "New Jarvisland",
+        "state": "Utah",
+        "country": "Cook Islands",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Restaurant",
+                null
+            ],
+            "appox_footfall": "24250/day"
+        },
+        "nearest_major_city": "Port Green",
+        "starting_price": "700.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "9494 sq. meters",
+        "title": "Barren Land 126",
+        "id": "2201638e-afea-4a51-992e-09ca0adec6c0",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-08-16T19:25:56.710Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "1242 Pearlie Alley, East Holly, Wyoming, United Arab Emirates",
+        "city": "East Holly",
+        "state": "Wyoming",
+        "country": "United Arab Emirates",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Garden",
+                "Monument"
+            ],
+            "appox_footfall": "43140/day"
+        },
+        "nearest_major_city": "Hegmannborough",
+        "starting_price": "584.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "92255 sq. meters",
+        "title": "Barren Land 127",
+        "id": "bdc9810f-8695-41e8-8355-6b8d8927b34a",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-17T16:47:06.459Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "991 Schinner Fork, West Earnestinestad, Connecticut, Bolivia",
+        "city": "West Earnestinestad",
+        "state": "Connecticut",
+        "country": "Bolivia",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Railway Station",
+                "Garden"
+            ],
+            "appox_footfall": "57014/day"
+        },
+        "nearest_major_city": "Brownmouth",
+        "starting_price": "278.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "80002 sq. meters",
+        "title": "Barren Land 128",
+        "id": "8349e3c8-ba39-4d37-8003-e07916c224b2",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-07-18T14:00:56.027Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "4713 Kathlyn Greens, South Audreyton, Arkansas, Saint Kitts and Nevis",
+        "city": "South Audreyton",
+        "state": "Arkansas",
+        "country": "Saint Kitts and Nevis",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Residential Area",
+                "Market"
+            ],
+            "appox_footfall": "95913/day"
+        },
+        "nearest_major_city": "West Bellchester",
+        "starting_price": "311.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "82180 sq. meters",
+        "title": "Barren Land 129",
+        "id": "3214a1bc-770d-413f-8586-a1f1db6357af",
+        "owner_contact_info": {
+            "full_name": "Elsie Kling",
+            "contact_number": "(272) 519-0005",
+            "address": "52020 Ullrich Glens, Blandaburgh, Connecticut, Afghanistan",
+            "email": "Florida_Murazik@gmail.com"
+        },
+        "acquired_on": "2020-02-22T22:54:40.868Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "8343 Alize Mall, Blandaburgh, Connecticut, Afghanistan",
+        "city": "Blandaburgh",
+        "state": "Connecticut",
+        "country": "Afghanistan",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Monument",
+                "Shops"
+            ],
+            "appox_footfall": "64454/day"
+        },
+        "nearest_major_city": "East Nellie",
+        "starting_price": "389.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "83639 sq. meters",
+        "title": "Barren Land 130",
+        "id": "56bd3773-8488-413f-b262-77e9a7454ed7",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-20T08:15:28.665Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "358 Glover Orchard, South Edwina, Vermont, Slovenia",
+        "city": "South Edwina",
+        "state": "Vermont",
+        "country": "Slovenia",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Garden",
+                "Malls"
+            ],
+            "appox_footfall": "68697/day"
+        },
+        "nearest_major_city": "Port Zack",
+        "starting_price": "419.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "87764 sq. meters",
+        "title": "Barren Land 131",
+        "id": "75b4460b-b321-4284-af02-6ca370ea24b6",
+        "owner_contact_info": {
+            "full_name": "Kellie Heathcote",
+            "contact_number": "362.962.7502 x47382",
+            "address": "868 Bechtelar Prairie, Port Kasandra, Kansas, Bosnia and Herzegovina",
+            "email": "Shirley20@yahoo.com"
+        },
+        "acquired_on": "2020-11-28T04:49:45.739Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "25802 Heidenreich Union, Port Kasandra, Kansas, Bosnia and Herzegovina",
+        "city": "Port Kasandra",
+        "state": "Kansas",
+        "country": "Bosnia and Herzegovina",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Monument",
+                "Monument"
+            ],
+            "appox_footfall": "49651/day"
+        },
+        "nearest_major_city": "Terryville",
+        "starting_price": "635.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "85104 sq. meters",
+        "title": "Barren Land 132",
+        "id": "60ab91c1-e00f-4e6b-bbbe-921a54e64474",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-08-02T00:50:56.929Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "47986 Konopelski Cliff, Florineshire, Georgia, Suriname",
+        "city": "Florineshire",
+        "state": "Georgia",
+        "country": "Suriname",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Shops",
+                "Bus Stand"
+            ],
+            "appox_footfall": "67340/day"
+        },
+        "nearest_major_city": "North Serenity",
+        "starting_price": "381.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "22146 sq. meters",
+        "title": "Barren Land 133",
+        "id": "bf3cf8c1-3d70-4922-a7a9-2ab5736e24ba",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-12-04T17:09:48.512Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "0915 Maxime Walks, North Scarlett, Michigan, Guinea",
+        "city": "North Scarlett",
+        "state": "Michigan",
+        "country": "Guinea",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Railway Station",
+                "Shops"
+            ],
+            "appox_footfall": "88782/day"
+        },
+        "nearest_major_city": "New Helmerport",
+        "starting_price": "711.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "69267 sq. meters",
+        "title": "Barren Land 134",
+        "id": "95224891-930b-43d7-8237-9d5d8e662c12",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-29T06:04:02.811Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "4149 Kim Extensions, North Dedrick, Oregon, Costa Rica",
+        "city": "North Dedrick",
+        "state": "Oregon",
+        "country": "Costa Rica",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Restaurant",
+                "Residential Area"
+            ],
+            "appox_footfall": "1775/day"
+        },
+        "nearest_major_city": "Wisokyside",
+        "starting_price": "111.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "1941 sq. meters",
+        "title": "Barren Land 135",
+        "id": "4a973f6b-7e48-42a2-bd90-8539c4e48dc2",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-02T00:27:13.067Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "4408 Sabrina Inlet, Port Alec, Arkansas, Swaziland",
+        "city": "Port Alec",
+        "state": "Arkansas",
+        "country": "Swaziland",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Restaurant",
+                "Shops"
+            ],
+            "appox_footfall": "33427/day"
+        },
+        "nearest_major_city": "West Enosfurt",
+        "starting_price": "153.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "57920 sq. meters",
+        "title": "Barren Land 136",
+        "id": "b8bfa98b-3073-4c5a-bec9-4780ccd32331",
+        "owner_contact_info": {
+            "full_name": "Lindsey Graham",
+            "contact_number": "549-280-0259 x450",
+            "address": "10111 Kuvalis Brooks, South Milan, New Jersey, Kuwait",
+            "email": "Tatyana81@hotmail.com"
+        },
+        "acquired_on": "2020-12-04T07:16:22.358Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "315 Guy Extensions, South Milan, New Jersey, Kuwait",
+        "city": "South Milan",
+        "state": "New Jersey",
+        "country": "Kuwait",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Railway Station",
+                "Garden"
+            ],
+            "appox_footfall": "18722/day"
+        },
+        "nearest_major_city": "Lake Harmon",
+        "starting_price": "553.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "18945 sq. meters",
+        "title": "Barren Land 137",
+        "id": "27ec47da-a21d-47a8-8acf-e05f13029916",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2021-01-29T20:49:17.683Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "37703 Tierra Crest, Tyreehaven, Massachusetts, Slovenia",
+        "city": "Tyreehaven",
+        "state": "Massachusetts",
+        "country": "Slovenia",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Bus Stand",
+                "Airport"
+            ],
+            "appox_footfall": "40460/day"
+        },
+        "nearest_major_city": "Jorditown",
+        "starting_price": "487.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "72843 sq. meters",
+        "title": "Barren Land 138",
+        "id": "5e0a6e23-c682-40bb-863c-815020915034",
+        "owner_contact_info": {
+            "full_name": "Joseph Collier",
+            "contact_number": "1-948-612-2487",
+            "address": "21063 Lila Extension, East Kylahaven, Delaware, Nigeria",
+            "email": "Kristy.Kirlin@gmail.com"
+        },
+        "acquired_on": "2021-02-01T07:06:38.915Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "54100 Aglae Fort, East Kylahaven, Delaware, Nigeria",
+        "city": "East Kylahaven",
+        "state": "Delaware",
+        "country": "Nigeria",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                null,
+                "Bus Stand"
+            ],
+            "appox_footfall": "32217/day"
+        },
+        "nearest_major_city": "Austentown",
+        "starting_price": "668.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "41659 sq. meters",
+        "title": "Barren Land 139",
+        "id": "cdd43c8c-8041-42b7-8029-c966ab267942",
+        "owner_contact_info": {
+            "full_name": "Felix O'Reilly",
+            "contact_number": "1-259-623-0947 x11778",
+            "address": "0121 Nedra Via, Wildermanhaven, New Jersey, Italy",
+            "email": "Adalberto76@yahoo.com"
+        },
+        "acquired_on": "2020-07-19T17:27:56.482Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "537 Hermann Mountains, Wildermanhaven, New Jersey, Italy",
+        "city": "Wildermanhaven",
+        "state": "New Jersey",
+        "country": "Italy",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Malls",
+                "Monument"
+            ],
+            "appox_footfall": "49923/day"
+        },
+        "nearest_major_city": "Javierview",
+        "starting_price": "642.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "95220 sq. meters",
+        "title": "Barren Land 140",
+        "id": "8a510ac5-fe12-40f0-8d0a-03289658c0bf",
+        "owner_contact_info": {
+            "full_name": "Thomas Denesik",
+            "contact_number": "(316) 744-5635 x4374",
+            "address": "7047 Otho Inlet, Port Brenna, Minnesota, Libyan Arab Jamahiriya",
+            "email": "Savion_Bauch@hotmail.com"
+        },
+        "acquired_on": "2020-11-16T13:04:28.754Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "81590 Moore Harbor, Port Brenna, Minnesota, Libyan Arab Jamahiriya",
+        "city": "Port Brenna",
+        "state": "Minnesota",
+        "country": "Libyan Arab Jamahiriya",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Shops",
+                "Market"
+            ],
+            "appox_footfall": "97714/day"
+        },
+        "nearest_major_city": "West Shakira",
+        "starting_price": "165.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "27763 sq. meters",
+        "title": "Barren Land 141",
+        "id": "89958a33-a7ab-4e9f-8cec-5c8fab5a8afa",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-07-07T19:07:52.594Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "9657 Rempel Hills, North Osvaldobury, Montana, Panama",
+        "city": "North Osvaldobury",
+        "state": "Montana",
+        "country": "Panama",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Airport",
+                "Monument"
+            ],
+            "appox_footfall": "68742/day"
+        },
+        "nearest_major_city": "Jarvisstad",
+        "starting_price": "622.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "61257 sq. meters",
+        "title": "Barren Land 142",
+        "id": "cc91693d-2ec4-4454-a87a-604a2d2267f3",
+        "owner_contact_info": {
+            "full_name": "Preston Moore",
+            "contact_number": "664-799-3652 x0505",
+            "address": "9904 Favian Flats, Port Carolanne, Michigan, Georgia",
+            "email": "Nicole_Strosin59@yahoo.com"
+        },
+        "acquired_on": "2020-08-15T13:39:02.978Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "14716 Shawna Manors, Port Carolanne, Michigan, Georgia",
+        "city": "Port Carolanne",
+        "state": "Michigan",
+        "country": "Georgia",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Bus Stand",
+                "Market"
+            ],
+            "appox_footfall": "23849/day"
+        },
+        "nearest_major_city": "West Paxtonside",
+        "starting_price": "153.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "81909 sq. meters",
+        "title": "Barren Land 143",
+        "id": "cdf02359-f18b-44dc-8f31-8b0333fa8b06",
+        "owner_contact_info": {
+            "full_name": "Ms. Erica Block",
+            "contact_number": "569.933.9199 x1313",
+            "address": "95557 Romaguera Spur, East Ericka, Missouri, Kenya",
+            "email": "Johan_Zemlak@hotmail.com"
+        },
+        "acquired_on": "2020-10-22T06:48:38.564Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "5936 Verlie Brooks, East Ericka, Missouri, Kenya",
+        "city": "East Ericka",
+        "state": "Missouri",
+        "country": "Kenya",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Malls",
+                "Residential Area"
+            ],
+            "appox_footfall": "31116/day"
+        },
+        "nearest_major_city": "Christyfurt",
+        "starting_price": "591.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "73893 sq. meters",
+        "title": "Barren Land 144",
+        "id": "81772461-ea04-4687-8527-53e92aa1cc64",
+        "owner_contact_info": {
+            "full_name": "Sonia Trantow",
+            "contact_number": "470.763.5112 x2511",
+            "address": "41556 Rylan Passage, Jessikaside, New Mexico, Niger",
+            "email": "Maymie44@hotmail.com"
+        },
+        "acquired_on": "2020-12-17T22:23:44.189Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "599 Laverne Brooks, Jessikaside, New Mexico, Niger",
+        "city": "Jessikaside",
+        "state": "New Mexico",
+        "country": "Niger",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Malls",
+                "Monument"
+            ],
+            "appox_footfall": "29181/day"
+        },
+        "nearest_major_city": "Ornburgh",
+        "starting_price": "965.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "94313 sq. meters",
+        "title": "Barren Land 145",
+        "id": "5258cf76-639e-4134-8150-52059a59464f",
+        "owner_contact_info": {
+            "full_name": "Gregg Schimmel",
+            "contact_number": "(752) 208-0788 x67540",
+            "address": "7360 Windler Curve, Larsonhaven, New Jersey, Lithuania",
+            "email": "Barton_Denesik87@hotmail.com"
+        },
+        "acquired_on": "2021-02-01T22:27:35.400Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "63780 Kulas Creek, Larsonhaven, New Jersey, Lithuania",
+        "city": "Larsonhaven",
+        "state": "New Jersey",
+        "country": "Lithuania",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Malls",
+                "Market"
+            ],
+            "appox_footfall": "26753/day"
+        },
+        "nearest_major_city": "Framishire",
+        "starting_price": "648.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "90867 sq. meters",
+        "title": "Barren Land 146",
+        "id": "143cc2f2-3390-4dcb-bfe8-95b29662de74",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-20T02:18:30.629Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "6426 Legros Canyon, Natburgh, Idaho, Tuvalu",
+        "city": "Natburgh",
+        "state": "Idaho",
+        "country": "Tuvalu",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Airport",
+                "Residential Area"
+            ],
+            "appox_footfall": "52503/day"
+        },
+        "nearest_major_city": "Dickinsonland",
+        "starting_price": "934.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "68632 sq. meters",
+        "title": "Barren Land 147",
+        "id": "1bf87a66-2096-4f26-b33b-faff4a939c70",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-17T06:47:51.019Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "38654 Maybell Extension, New Shyanneview, Iowa, Austria",
+        "city": "New Shyanneview",
+        "state": "Iowa",
+        "country": "Austria",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Bus Stand",
+                null
+            ],
+            "appox_footfall": "13497/day"
+        },
+        "nearest_major_city": "New Kareem",
+        "starting_price": "941.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "20590 sq. meters",
+        "title": "Barren Land 148",
+        "id": "b363b30f-e79e-4293-9069-e0ec3a6323d2",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-06-24T09:14:15.565Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "230 Bernier Station, Lolaborough, New Mexico, Saint Martin",
+        "city": "Lolaborough",
+        "state": "New Mexico",
+        "country": "Saint Martin",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Monument",
+                "Monument"
+            ],
+            "appox_footfall": "7625/day"
+        },
+        "nearest_major_city": "East Greysonville",
+        "starting_price": "209.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "31770 sq. meters",
+        "title": "Barren Land 149",
+        "id": "eb2eae60-e517-4094-9359-58a8781f3379",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-04T10:47:41.525Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "533 Malika Garden, Wiegandfurt, Nevada, Oman",
+        "city": "Wiegandfurt",
+        "state": "Nevada",
+        "country": "Oman",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Malls",
+                "Railway Station"
+            ],
+            "appox_footfall": "87487/day"
+        },
+        "nearest_major_city": "East Destiny",
+        "starting_price": "638.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "11215 sq. meters",
+        "title": "Barren Land 150",
+        "id": "63e57207-3bb4-4b93-82e8-b5cc323f11f9",
+        "owner_contact_info": {
+            "full_name": "Robert Bayer",
+            "contact_number": "536-445-7048 x959",
+            "address": "87009 Anibal Rapid, North Burdette, Massachusetts, Poland",
+            "email": "Brown_Pacocha@gmail.com"
+        },
+        "acquired_on": "2020-05-22T06:23:23.645Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "157 Jones Curve, North Burdette, Massachusetts, Poland",
+        "city": "North Burdette",
+        "state": "Massachusetts",
+        "country": "Poland",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Residential Area",
+                "Bus Stand"
+            ],
+            "appox_footfall": "58916/day"
+        },
+        "nearest_major_city": "Lolitaton",
+        "starting_price": "390.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "83006 sq. meters",
+        "title": "Barren Land 151",
+        "id": "105cb245-083a-4d49-be18-a4936fd6647a",
+        "owner_contact_info": {
+            "full_name": "Roland Stokes Jr.",
+            "contact_number": "(628) 334-3206 x85630",
+            "address": "5992 Israel Prairie, West Davon, North Carolina, Jamaica",
+            "email": "Amiya.Hammes14@hotmail.com"
+        },
+        "acquired_on": "2020-04-02T13:40:58.523Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "90760 Collins Ports, West Davon, North Carolina, Jamaica",
+        "city": "West Davon",
+        "state": "North Carolina",
+        "country": "Jamaica",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Residential Area",
+                "Malls"
+            ],
+            "appox_footfall": "76883/day"
+        },
+        "nearest_major_city": "West Montystad",
+        "starting_price": "220.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "79547 sq. meters",
+        "title": "Barren Land 152",
+        "id": "0e6ce717-5fcd-4470-b358-c000267b5856",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-13T15:11:43.339Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "03246 Kunze Street, West Rodger, Wyoming, New Zealand",
+        "city": "West Rodger",
+        "state": "Wyoming",
+        "country": "New Zealand",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Monument",
+                "Residential Area"
+            ],
+            "appox_footfall": "62748/day"
+        },
+        "nearest_major_city": "West Bethanyhaven",
+        "starting_price": "89.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "92647 sq. meters",
+        "title": "Barren Land 153",
+        "id": "c35743db-69cc-4156-a9ac-f60279204918",
+        "owner_contact_info": {
+            "full_name": "Garrett Willms",
+            "contact_number": "(393) 789-3790 x7226",
+            "address": "3618 Rick Mountains, North Fermin, Georgia, Pitcairn Islands",
+            "email": "Romaine86@yahoo.com"
+        },
+        "acquired_on": "2021-01-07T22:25:17.930Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "1721 Zachary Drives, North Fermin, Georgia, Pitcairn Islands",
+        "city": "North Fermin",
+        "state": "Georgia",
+        "country": "Pitcairn Islands",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Airport",
+                "Market"
+            ],
+            "appox_footfall": "51928/day"
+        },
+        "nearest_major_city": "Port Bradley",
+        "starting_price": "385.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "61553 sq. meters",
+        "title": "Barren Land 154",
+        "id": "0dd9b21f-045f-4afd-8bf8-f7f25db56ee0",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2021-01-02T08:36:00.663Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "36027 Rosa Fields, Lamontberg, Utah, Saint Helena",
+        "city": "Lamontberg",
+        "state": "Utah",
+        "country": "Saint Helena",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                null,
+                "Garden"
+            ],
+            "appox_footfall": "69666/day"
+        },
+        "nearest_major_city": "South Shaunfurt",
+        "starting_price": "187.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "73809 sq. meters",
+        "title": "Barren Land 155",
+        "id": "6902dd04-0f34-4538-8f8e-faa563d27e7a",
+        "owner_contact_info": {
+            "full_name": "Virgil Oberbrunner",
+            "contact_number": "(876) 525-3025",
+            "address": "1875 Berry Mills, New Nicholaus, New Hampshire, Sri Lanka",
+            "email": "Cory22@hotmail.com"
+        },
+        "acquired_on": "2020-11-18T23:02:35.417Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "24737 Ratke Rapid, New Nicholaus, New Hampshire, Sri Lanka",
+        "city": "New Nicholaus",
+        "state": "New Hampshire",
+        "country": "Sri Lanka",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Monument",
+                "Bus Stand"
+            ],
+            "appox_footfall": "29248/day"
+        },
+        "nearest_major_city": "Abnerhaven",
+        "starting_price": "611.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "85995 sq. meters",
+        "title": "Barren Land 156",
+        "id": "9e4520ec-3f0c-4be3-8d17-f69b646d8888",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2021-01-01T15:43:19.510Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "5443 Khalil Vista, Lake Jayceberg, Arkansas, Sao Tome and Principe",
+        "city": "Lake Jayceberg",
+        "state": "Arkansas",
+        "country": "Sao Tome and Principe",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Garden",
+                "Malls"
+            ],
+            "appox_footfall": "26075/day"
+        },
+        "nearest_major_city": "Port Kenyattaview",
+        "starting_price": "391.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "94817 sq. meters",
+        "title": "Barren Land 157",
+        "id": "924670dd-b375-4cab-9aca-5ed03d7cfa4e",
+        "owner_contact_info": {
+            "full_name": "Erica Nienow",
+            "contact_number": "621-514-5244",
+            "address": "002 Kunze Road, Bergstromfurt, North Dakota, Sudan",
+            "email": "Estel57@gmail.com"
+        },
+        "acquired_on": "2020-06-24T08:35:11.004Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "121 O'Hara Center, Bergstromfurt, North Dakota, Sudan",
+        "city": "Bergstromfurt",
+        "state": "North Dakota",
+        "country": "Sudan",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                null,
+                "Monument"
+            ],
+            "appox_footfall": "67846/day"
+        },
+        "nearest_major_city": "Lake Gladys",
+        "starting_price": "283.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "31743 sq. meters",
+        "title": "Barren Land 158",
+        "id": "a0c66c04-f572-4246-9b31-d7fe317f25f2",
+        "owner_contact_info": {
+            "full_name": "Gregg Beahan",
+            "contact_number": "1-957-366-7576",
+            "address": "932 Mitchell Meadow, East Loyce, Michigan, India",
+            "email": "Juvenal14@hotmail.com"
+        },
+        "acquired_on": "2020-09-01T07:09:12.048Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "79650 Demetris Rapids, East Loyce, Michigan, India",
+        "city": "East Loyce",
+        "state": "Michigan",
+        "country": "India",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Malls",
+                "Restaurant"
+            ],
+            "appox_footfall": "10771/day"
+        },
+        "nearest_major_city": "East Kariview",
+        "starting_price": "584.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "52586 sq. meters",
+        "title": "Barren Land 159",
+        "id": "76114c47-f7d0-4f66-ab5f-2beb89c5c298",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-17T10:25:02.275Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "0020 Violet Corner, South Candidaville, California, Japan",
+        "city": "South Candidaville",
+        "state": "California",
+        "country": "Japan",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Market",
+                "Garden"
+            ],
+            "appox_footfall": "29623/day"
+        },
+        "nearest_major_city": "Chaimshire",
+        "starting_price": "65.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "97747 sq. meters",
+        "title": "Barren Land 160",
+        "id": "4d49433e-917d-4a71-bc1e-54a847c785b4",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-12-28T13:15:21.521Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "64309 Bashirian Parkway, Gloverview, Texas, United States Minor Outlying Islands",
+        "city": "Gloverview",
+        "state": "Texas",
+        "country": "United States Minor Outlying Islands",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Monument",
+                "Residential Area"
+            ],
+            "appox_footfall": "3808/day"
+        },
+        "nearest_major_city": "North Katlynburgh",
+        "starting_price": "617.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "59632 sq. meters",
+        "title": "Barren Land 161",
+        "id": "e33be6fa-b4d2-4249-b49b-c978e7ae31ef",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-11-27T22:43:59.171Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "984 Rosendo Underpass, Kieraton, Iowa, Maldives",
+        "city": "Kieraton",
+        "state": "Iowa",
+        "country": "Maldives",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Airport",
+                "Railway Station"
+            ],
+            "appox_footfall": "79951/day"
+        },
+        "nearest_major_city": "Berniershire",
+        "starting_price": "624.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "76687 sq. meters",
+        "title": "Barren Land 162",
+        "id": "10ba0e90-577c-4e25-a23e-163a6487a363",
+        "owner_contact_info": {
+            "full_name": "Luke McGlynn IV",
+            "contact_number": "472.541.9546 x5413",
+            "address": "5733 Ramon Locks, East Fredrick, Tennessee, American Samoa",
+            "email": "Leonard96@gmail.com"
+        },
+        "acquired_on": "2020-10-13T21:52:57.591Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "42858 Jast Knolls, East Fredrick, Tennessee, American Samoa",
+        "city": "East Fredrick",
+        "state": "Tennessee",
+        "country": "American Samoa",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Residential Area",
+                "Garden"
+            ],
+            "appox_footfall": "36779/day"
+        },
+        "nearest_major_city": "South Mosemouth",
+        "starting_price": "770.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "76091 sq. meters",
+        "title": "Barren Land 163",
+        "id": "eb4419e0-732a-448a-ac07-026bd95c7c9e",
+        "owner_contact_info": {
+            "full_name": "Harry Schimmel",
+            "contact_number": "826.938.1846",
+            "address": "687 Patsy Canyon, Marvintown, Alaska, Malaysia",
+            "email": "Dexter.Farrell69@yahoo.com"
+        },
+        "acquired_on": "2020-10-31T12:00:43.658Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "0152 Price Ville, Marvintown, Alaska, Malaysia",
+        "city": "Marvintown",
+        "state": "Alaska",
+        "country": "Malaysia",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Bus Stand",
+                "Malls"
+            ],
+            "appox_footfall": "3482/day"
+        },
+        "nearest_major_city": "Lake Dale",
+        "starting_price": "772.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "47843 sq. meters",
+        "title": "Barren Land 164",
+        "id": "b5baba28-7125-4150-9b2c-d9b4961161ca",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-17T15:38:47.951Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "11528 Sarah Tunnel, Uptonburgh, Alabama, Greenland",
+        "city": "Uptonburgh",
+        "state": "Alabama",
+        "country": "Greenland",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                null,
+                "Railway Station"
+            ],
+            "appox_footfall": "17077/day"
+        },
+        "nearest_major_city": "East Sadieton",
+        "starting_price": "773.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "34182 sq. meters",
+        "title": "Barren Land 165",
+        "id": "90263d9c-5fdd-4413-b717-3cf21ed34905",
+        "owner_contact_info": {
+            "full_name": "Angelo Schuster",
+            "contact_number": "(691) 873-2189 x115",
+            "address": "871 Carlee Brooks, South Magnolia, Idaho, Zimbabwe",
+            "email": "Shakira_Zemlak@gmail.com"
+        },
+        "acquired_on": "2020-06-17T17:53:25.732Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "578 Prohaska Lodge, South Magnolia, Idaho, Zimbabwe",
+        "city": "South Magnolia",
+        "state": "Idaho",
+        "country": "Zimbabwe",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Bus Stand",
+                "Railway Station"
+            ],
+            "appox_footfall": "50114/day"
+        },
+        "nearest_major_city": "Kuvalisshire",
+        "starting_price": "114.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "44109 sq. meters",
+        "title": "Barren Land 166",
+        "id": "da229cd5-f82a-4914-83db-70f6c23593c6",
+        "owner_contact_info": {
+            "full_name": "Trevor Adams",
+            "contact_number": "765.866.7110 x4774",
+            "address": "95481 Mortimer Ports, Terryborough, Maryland, Belarus",
+            "email": "Alf70@yahoo.com"
+        },
+        "acquired_on": "2020-12-29T22:51:23.572Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "42309 Leuschke Mills, Terryborough, Maryland, Belarus",
+        "city": "Terryborough",
+        "state": "Maryland",
+        "country": "Belarus",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Bus Stand",
+                null
+            ],
+            "appox_footfall": "6005/day"
+        },
+        "nearest_major_city": "New Nadia",
+        "starting_price": "315.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "34025 sq. meters",
+        "title": "Barren Land 167",
+        "id": "1c90154e-8787-43c4-aa7c-a11fb7fd5d52",
+        "owner_contact_info": {
+            "full_name": "Dallas Purdy",
+            "contact_number": "382.318.5003 x93685",
+            "address": "07901 Volkman Trail, Durganbury, Oregon, Wallis and Futuna",
+            "email": "Kelvin_Kiehn60@gmail.com"
+        },
+        "acquired_on": "2020-07-05T04:18:11.541Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "20367 Moriah Meadows, Durganbury, Oregon, Wallis and Futuna",
+        "city": "Durganbury",
+        "state": "Oregon",
+        "country": "Wallis and Futuna",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Railway Station",
+                "Garden"
+            ],
+            "appox_footfall": "14131/day"
+        },
+        "nearest_major_city": "West Alexzander",
+        "starting_price": "138.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "66908 sq. meters",
+        "title": "Barren Land 168",
+        "id": "071477a4-835a-49b2-a846-c6e8810dafd6",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-03T02:05:07.890Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "6797 Weimann Inlet, South Judsonland, Montana, Tuvalu",
+        "city": "South Judsonland",
+        "state": "Montana",
+        "country": "Tuvalu",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Railway Station",
+                "Restaurant"
+            ],
+            "appox_footfall": "21557/day"
+        },
+        "nearest_major_city": "Port Arturoside",
+        "starting_price": "445.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "2147 sq. meters",
+        "title": "Barren Land 169",
+        "id": "f91e4221-5abb-429a-8464-4b8a9cef2885",
+        "owner_contact_info": {
+            "full_name": "Douglas Botsford",
+            "contact_number": "853.721.4598 x1301",
+            "address": "0068 Kuphal Forges, Jakubowskistad, Wisconsin, Albania",
+            "email": "Christophe_Kuvalis67@hotmail.com"
+        },
+        "acquired_on": "2020-08-30T21:43:43.021Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "9577 Feest Curve, Jakubowskistad, Wisconsin, Albania",
+        "city": "Jakubowskistad",
+        "state": "Wisconsin",
+        "country": "Albania",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Malls",
+                "Airport"
+            ],
+            "appox_footfall": "19856/day"
+        },
+        "nearest_major_city": "Melbaton",
+        "starting_price": "589.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "42285 sq. meters",
+        "title": "Barren Land 170",
+        "id": "d6ceaeb6-0b4d-44b3-bea2-00967b6d0b35",
+        "owner_contact_info": {
+            "full_name": "Ms. Alicia Sporer",
+            "contact_number": "665.432.0492",
+            "address": "9358 Barton Falls, Eloiseport, Maryland, Chad",
+            "email": "Bradford33@yahoo.com"
+        },
+        "acquired_on": "2020-09-28T12:14:44.659Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "0442 Hudson Shoal, Eloiseport, Maryland, Chad",
+        "city": "Eloiseport",
+        "state": "Maryland",
+        "country": "Chad",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                null,
+                "Shops"
+            ],
+            "appox_footfall": "96296/day"
+        },
+        "nearest_major_city": "North Anaside",
+        "starting_price": "783.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "8889 sq. meters",
+        "title": "Barren Land 171",
+        "id": "6de099c8-805e-4968-b653-eb5bea8cb66d",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2021-01-15T16:57:20.453Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "0230 Minerva Pine, Uptonhaven, Rhode Island, Kuwait",
+        "city": "Uptonhaven",
+        "state": "Rhode Island",
+        "country": "Kuwait",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Garden",
+                "Residential Area"
+            ],
+            "appox_footfall": "60768/day"
+        },
+        "nearest_major_city": "Howemouth",
+        "starting_price": "481.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "18003 sq. meters",
+        "title": "Barren Land 172",
+        "id": "7bb453db-4d25-49c1-96a6-6ead94280014",
+        "owner_contact_info": {
+            "full_name": "Angelo Oberbrunner",
+            "contact_number": "(949) 664-6597 x84690",
+            "address": "4928 Kutch Causeway, Kubport, Oklahoma, Saint Pierre and Miquelon",
+            "email": "Aditya_Bernhard@yahoo.com"
+        },
+        "acquired_on": "2020-12-25T05:36:53.383Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "3333 Schultz Trafficway, Kubport, Oklahoma, Saint Pierre and Miquelon",
+        "city": "Kubport",
+        "state": "Oklahoma",
+        "country": "Saint Pierre and Miquelon",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Garden",
+                "Residential Area"
+            ],
+            "appox_footfall": "96255/day"
+        },
+        "nearest_major_city": "North Damion",
+        "starting_price": "846.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "33191 sq. meters",
+        "title": "Barren Land 173",
+        "id": "0e3f0ef0-b360-4b44-8e52-561f645d379d",
+        "owner_contact_info": {
+            "full_name": "Mable Runolfsson",
+            "contact_number": "247.888.4940 x005",
+            "address": "316 Bert Creek, Lonnyland, Florida, Kazakhstan",
+            "email": "Darrick.Conn@yahoo.com"
+        },
+        "acquired_on": "2020-07-20T05:22:40.873Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "56209 Roxanne Spring, Lonnyland, Florida, Kazakhstan",
+        "city": "Lonnyland",
+        "state": "Florida",
+        "country": "Kazakhstan",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Residential Area",
+                "Railway Station"
+            ],
+            "appox_footfall": "89441/day"
+        },
+        "nearest_major_city": "Kaylahmouth",
+        "starting_price": "543.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "27848 sq. meters",
+        "title": "Barren Land 174",
+        "id": "9cc51350-dc50-4851-9abd-8ff93ac7e218",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-16T21:24:42.072Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "774 Pacocha Roads, Ebertport, Kansas, Kazakhstan",
+        "city": "Ebertport",
+        "state": "Kansas",
+        "country": "Kazakhstan",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Railway Station",
+                "Bus Stand"
+            ],
+            "appox_footfall": "3001/day"
+        },
+        "nearest_major_city": "West Benniefort",
+        "starting_price": "909.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "77565 sq. meters",
+        "title": "Barren Land 175",
+        "id": "a615c2c2-a7ed-48a2-a209-1d979a4e61b4",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-05T08:20:06.512Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "33910 Funk Corners, Windlerport, Virginia, Haiti",
+        "city": "Windlerport",
+        "state": "Virginia",
+        "country": "Haiti",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Railway Station",
+                "Residential Area"
+            ],
+            "appox_footfall": "88602/day"
+        },
+        "nearest_major_city": "Ebonymouth",
+        "starting_price": "226.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "45482 sq. meters",
+        "title": "Barren Land 176",
+        "id": "9b1b4e1e-0c6b-42b6-a7db-9131c0a53455",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-25T13:33:00.347Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Farming",
+        "full_address": "7132 Gaylord Burgs, West Bennymouth, Oregon, Dominica",
+        "city": "West Bennymouth",
+        "state": "Oregon",
+        "country": "Dominica",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Railway Station",
+                "Monument"
+            ],
+            "appox_footfall": "70334/day"
+        },
+        "nearest_major_city": "New Reese",
+        "starting_price": "302.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "5837 sq. meters",
+        "title": "Barren Land 177",
+        "id": "356508fd-23fb-45b1-bf7c-3f0e2cba2c20",
+        "owner_contact_info": {
+            "full_name": "Mark Welch",
+            "contact_number": "1-946-393-8630 x96802",
+            "address": "393 Jazmin Lodge, South Shane, Virginia, Venezuela",
+            "email": "Moses_Hirthe@yahoo.com"
+        },
+        "acquired_on": "2020-07-27T21:39:25.380Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "006 Lebsack Roads, South Shane, Virginia, Venezuela",
+        "city": "South Shane",
+        "state": "Virginia",
+        "country": "Venezuela",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Airport",
+                "Bus Stand"
+            ],
+            "appox_footfall": "12564/day"
+        },
+        "nearest_major_city": "East Jane",
+        "starting_price": "292.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "84572 sq. meters",
+        "title": "Barren Land 178",
+        "id": "c2a679de-086c-4899-9099-35fa726c3689",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2021-01-13T04:45:02.889Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "86911 Effertz Mountain, Port Adrien, Texas, Paraguay",
+        "city": "Port Adrien",
+        "state": "Texas",
+        "country": "Paraguay",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Restaurant",
+                "Shops"
+            ],
+            "appox_footfall": "31226/day"
+        },
+        "nearest_major_city": "Aufderharshire",
+        "starting_price": "243.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "76953 sq. meters",
+        "title": "Barren Land 179",
+        "id": "096f38fa-29cb-4a0e-bbe9-b741708fc5e2",
+        "owner_contact_info": {
+            "full_name": "Lawrence Miller",
+            "contact_number": "(797) 248-8055 x34634",
+            "address": "989 Beer Trail, South Miracle, New Mexico, Fiji",
+            "email": "Jarrett_Jerde87@hotmail.com"
+        },
+        "acquired_on": "2020-10-16T19:23:38.847Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "56373 Zulauf Bridge, South Miracle, New Mexico, Fiji",
+        "city": "South Miracle",
+        "state": "New Mexico",
+        "country": "Fiji",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Restaurant",
+                "Market"
+            ],
+            "appox_footfall": "201/day"
+        },
+        "nearest_major_city": "Millerchester",
+        "starting_price": "104.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "33443 sq. meters",
+        "title": "Barren Land 180",
+        "id": "693b1f61-c83e-477f-8e91-942642bef82b",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-24T20:47:01.571Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "3933 Maybell Estate, East Gayleview, Nebraska, Sierra Leone",
+        "city": "East Gayleview",
+        "state": "Nebraska",
+        "country": "Sierra Leone",
+        "nearby_locations": {
+            "locations": [
+                "Shops",
+                "Malls",
+                "Railway Station"
+            ],
+            "appox_footfall": "14063/day"
+        },
+        "nearest_major_city": "West Noemimouth",
+        "starting_price": "565.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "19798 sq. meters",
+        "title": "Barren Land 181",
+        "id": "42b0e19e-c0ad-4e4e-9a96-ba0a3955c7cc",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-09T18:06:25.505Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "0485 Stracke Parkway, Port Jarontown, Alabama, Saint Kitts and Nevis",
+        "city": "Port Jarontown",
+        "state": "Alabama",
+        "country": "Saint Kitts and Nevis",
+        "nearby_locations": {
+            "locations": [
+                "Garden",
+                "Railway Station",
+                "Garden"
+            ],
+            "appox_footfall": "72663/day"
+        },
+        "nearest_major_city": "Fritschshire",
+        "starting_price": "669.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "1939 sq. meters",
+        "title": "Barren Land 182",
+        "id": "22b58441-a5f3-4e13-85b7-a0425c9eebb1",
+        "owner_contact_info": {
+            "full_name": "Shane Yundt",
+            "contact_number": "(709) 219-0822 x42511",
+            "address": "9213 Birdie Dale, West Kieranfurt, Massachusetts, Benin",
+            "email": "Janiya_Bruen63@hotmail.com"
+        },
+        "acquired_on": "2020-10-04T12:01:34.328Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "62764 Sallie View, West Kieranfurt, Massachusetts, Benin",
+        "city": "West Kieranfurt",
+        "state": "Massachusetts",
+        "country": "Benin",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Garden",
+                "Malls"
+            ],
+            "appox_footfall": "72395/day"
+        },
+        "nearest_major_city": "Cassidyhaven",
+        "starting_price": "136.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "203 sq. meters",
+        "title": "Barren Land 183",
+        "id": "a9731e2d-a674-4c2e-badb-0849bddfc879",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-07-19T18:40:16.784Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "31980 Littel Village, Daytonville, Virginia, Taiwan",
+        "city": "Daytonville",
+        "state": "Virginia",
+        "country": "Taiwan",
+        "nearby_locations": {
+            "locations": [
+                "Railway Station",
+                "Garden",
+                "Market"
+            ],
+            "appox_footfall": "15316/day"
+        },
+        "nearest_major_city": "East Nevamouth",
+        "starting_price": "13.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "34920 sq. meters",
+        "title": "Barren Land 184",
+        "id": "150c6826-23c5-4809-913c-4117947edf73",
+        "owner_contact_info": {
+            "full_name": "Joan Bogan MD",
+            "contact_number": "1-911-759-2880 x811",
+            "address": "54283 Chadrick Shoal, North Elsetown, Indiana, Mexico",
+            "email": "Fredrick_Wisoky86@hotmail.com"
+        },
+        "acquired_on": "2020-05-03T04:16:46.044Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "443 Crona Cape, North Elsetown, Indiana, Mexico",
+        "city": "North Elsetown",
+        "state": "Indiana",
+        "country": "Mexico",
+        "nearby_locations": {
+            "locations": [
+                "Market",
+                "Airport",
+                "Garden"
+            ],
+            "appox_footfall": "28083/day"
+        },
+        "nearest_major_city": "Port Briana",
+        "starting_price": "994.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "98963 sq. meters",
+        "title": "Barren Land 185",
+        "id": "be76bbe1-085d-4db9-80be-f8eefc8d3fed",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-10T04:33:02.627Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "945 Chandler Trail, Dickiberg, Vermont, Republic of Korea",
+        "city": "Dickiberg",
+        "state": "Vermont",
+        "country": "Republic of Korea",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Market",
+                "Malls"
+            ],
+            "appox_footfall": "86023/day"
+        },
+        "nearest_major_city": "Port Jessyville",
+        "starting_price": "247.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "53122 sq. meters",
+        "title": "Barren Land 186",
+        "id": "03a16ed0-93fa-4c8a-a26d-45e6e7a57e49",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-24T16:56:29.165Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "558 Gaston Falls, Samirbury, Massachusetts, Turks and Caicos Islands",
+        "city": "Samirbury",
+        "state": "Massachusetts",
+        "country": "Turks and Caicos Islands",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Malls",
+                "Railway Station"
+            ],
+            "appox_footfall": "70394/day"
+        },
+        "nearest_major_city": "Sanfordville",
+        "starting_price": "846.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "28845 sq. meters",
+        "title": "Barren Land 187",
+        "id": "6f03795d-25c0-4a8f-aea8-0ab5a096a1ae",
+        "owner_contact_info": {
+            "full_name": "Betsy Bauch",
+            "contact_number": "838.493.2118 x247",
+            "address": "2758 Mills Plains, West Coltonborough, Colorado, Central African Republic",
+            "email": "Dejon.Leuschke@hotmail.com"
+        },
+        "acquired_on": "2020-07-21T10:19:05.675Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "6064 Lavina Row, West Coltonborough, Colorado, Central African Republic",
+        "city": "West Coltonborough",
+        "state": "Colorado",
+        "country": "Central African Republic",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                "Garden",
+                "Residential Area"
+            ],
+            "appox_footfall": "11236/day"
+        },
+        "nearest_major_city": "Johnport",
+        "starting_price": "552.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "62184 sq. meters",
+        "title": "Barren Land 188",
+        "id": "1c83df10-d6d0-4ca8-a636-44c137606832",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-15T12:51:52.477Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Farming",
+        "full_address": "9905 Camden Junctions, Chesleyview, Massachusetts, United Kingdom",
+        "city": "Chesleyview",
+        "state": "Massachusetts",
+        "country": "United Kingdom",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Restaurant",
+                "Residential Area"
+            ],
+            "appox_footfall": "88241/day"
+        },
+        "nearest_major_city": "Austinfort",
+        "starting_price": "297.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "4456 sq. meters",
+        "title": "Barren Land 189",
+        "id": "8f8a41bc-dbf6-4da1-a38e-dfb2c969435a",
+        "owner_contact_info": {
+            "full_name": "Stewart Greenfelder II",
+            "contact_number": "312.765.6220 x963",
+            "address": "76146 Geo Pike, North Chloeshire, Washington, Uruguay",
+            "email": "Rebeca.Cartwright@hotmail.com"
+        },
+        "acquired_on": "2020-05-05T14:58:35.911Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "7211 Kayley Lakes, North Chloeshire, Washington, Uruguay",
+        "city": "North Chloeshire",
+        "state": "Washington",
+        "country": "Uruguay",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Garden",
+                "Bus Stand"
+            ],
+            "appox_footfall": "66573/day"
+        },
+        "nearest_major_city": "Arlenehaven",
+        "starting_price": "680.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "22778 sq. meters",
+        "title": "Barren Land 190",
+        "id": "15c26025-8314-4db6-b660-7fbd0a722a11",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-08-15T13:01:59.065Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "73684 McKenzie Spring, East Donnaland, Utah, United Arab Emirates",
+        "city": "East Donnaland",
+        "state": "Utah",
+        "country": "United Arab Emirates",
+        "nearby_locations": {
+            "locations": [
+                "Airport",
+                null,
+                "Bus Stand"
+            ],
+            "appox_footfall": "4340/day"
+        },
+        "nearest_major_city": "Croninfort",
+        "starting_price": "11.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "78568 sq. meters",
+        "title": "Barren Land 191",
+        "id": "6f7e4be1-f849-4b8f-8770-3f08b1d35e01",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-09-11T01:18:06.030Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "701 Eulalia Glens, North Audiestad, North Carolina, Nicaragua",
+        "city": "North Audiestad",
+        "state": "North Carolina",
+        "country": "Nicaragua",
+        "nearby_locations": {
+            "locations": [
+                null,
+                "Airport",
+                "Railway Station"
+            ],
+            "appox_footfall": "83526/day"
+        },
+        "nearest_major_city": "Cormiermouth",
+        "starting_price": "109.00",
+        "image": "barren_land_1"
+    },
+    {
+        "size": "23351 sq. meters",
+        "title": "Barren Land 192",
+        "id": "b5e0fcf5-d9e8-45cc-9522-04e8a566d99e",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-03-31T23:56:48.272Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "008 Hodkiewicz Prairie, Schmittmouth, Vermont, Belize",
+        "city": "Schmittmouth",
+        "state": "Vermont",
+        "country": "Belize",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Residential Area",
+                "Malls"
+            ],
+            "appox_footfall": "86354/day"
+        },
+        "nearest_major_city": "Aimeeborough",
+        "starting_price": "970.00",
+        "image": "barren_land_5"
+    },
+    {
+        "size": "16903 sq. meters",
+        "title": "Barren Land 193",
+        "id": "e534ffc9-9a1f-414d-bc36-1e0902b009ad",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-10-28T16:51:26.594Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "08167 Kailey Harbor, Tyshawnmouth, Connecticut, Denmark",
+        "city": "Tyshawnmouth",
+        "state": "Connecticut",
+        "country": "Denmark",
+        "nearby_locations": {
+            "locations": [
+                "Restaurant",
+                "Residential Area",
+                "Market"
+            ],
+            "appox_footfall": "66493/day"
+        },
+        "nearest_major_city": "East Adellaborough",
+        "starting_price": "896.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "62725 sq. meters",
+        "title": "Barren Land 194",
+        "id": "24e97ce0-cf3d-4843-bc1f-85b862fd755e",
+        "owner_contact_info": {
+            "full_name": "Wilbur Schmidt",
+            "contact_number": "278-314-4430",
+            "address": "01629 Swaniawski Throughway, Lillieside, Rhode Island, Trinidad and Tobago",
+            "email": "Broderick54@gmail.com"
+        },
+        "acquired_on": "2020-12-24T13:41:26.318Z",
+        "land_type": "Wild Flora",
+        "land_ideal_for": "Factory",
+        "full_address": "778 Jailyn Spur, Lillieside, Rhode Island, Trinidad and Tobago",
+        "city": "Lillieside",
+        "state": "Rhode Island",
+        "country": "Trinidad and Tobago",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Market",
+                "Bus Stand"
+            ],
+            "appox_footfall": "14463/day"
+        },
+        "nearest_major_city": "Trishastad",
+        "starting_price": "449.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "26857 sq. meters",
+        "title": "Barren Land 195",
+        "id": "9a0995d3-8de9-46c1-9d4b-1488ad947205",
+        "owner_contact_info": {
+            "full_name": "Loretta Schuster",
+            "contact_number": "450.619.4207",
+            "address": "86223 Donny Cliffs, Lake Rosina, Nevada, Estonia",
+            "email": "Tre6@gmail.com"
+        },
+        "acquired_on": "2021-01-15T07:04:37.380Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "42945 Arvid Villages, Lake Rosina, Nevada, Estonia",
+        "city": "Lake Rosina",
+        "state": "Nevada",
+        "country": "Estonia",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Monument",
+                "Market"
+            ],
+            "appox_footfall": "84093/day"
+        },
+        "nearest_major_city": "Anjaliview",
+        "starting_price": "579.00",
+        "image": "barren_land_4"
+    },
+    {
+        "size": "80424 sq. meters",
+        "title": "Barren Land 196",
+        "id": "9e17fe8a-cd5a-46d9-8bd3-33dce08d3add",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-04-12T13:27:52.040Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Residential Appartments",
+        "full_address": "041 Melany Circles, South Malachifort, New York, Croatia",
+        "city": "South Malachifort",
+        "state": "New York",
+        "country": "Croatia",
+        "nearby_locations": {
+            "locations": [
+                "Bus Stand",
+                "Shops",
+                "Airport"
+            ],
+            "appox_footfall": "40593/day"
+        },
+        "nearest_major_city": "Izabellamouth",
+        "starting_price": "429.00",
+        "image": "barren_land_3"
+    },
+    {
+        "size": "99415 sq. meters",
+        "title": "Barren Land 197",
+        "id": "4ae06262-ef05-45ea-81dc-1f98c77812c5",
+        "owner_contact_info": {
+            "full_name": "Miss Clayton Romaguera",
+            "contact_number": "953.410.2236 x4508",
+            "address": "033 Champlin Islands, Shanahanport, South Carolina, Iraq",
+            "email": "Jared9@hotmail.com"
+        },
+        "acquired_on": "2020-11-05T17:09:37.686Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Farming",
+        "full_address": "1084 Bud Throughway, Shanahanport, South Carolina, Iraq",
+        "city": "Shanahanport",
+        "state": "South Carolina",
+        "country": "Iraq",
+        "nearby_locations": {
+            "locations": [
+                "Residential Area",
+                "Bus Stand",
+                null
+            ],
+            "appox_footfall": "9138/day"
+        },
+        "nearest_major_city": "Floburgh",
+        "starting_price": "11.00",
+        "image": "barren_land_2"
+    },
+    {
+        "size": "18697 sq. meters",
+        "title": "Barren Land 198",
+        "id": "b0bd1efa-7e1d-4702-9779-5e448b93f402",
+        "owner_contact_info": {
+            "full_name": "Ms. Connie Mayer",
+            "contact_number": "304.793.4465 x336",
+            "address": "0808 Victor Avenue, North Germainestad, New Mexico, Tokelau",
+            "email": "Darrell_Hackett54@hotmail.com"
+        },
+        "acquired_on": "2020-05-14T13:51:42.185Z",
+        "land_type": "Barren",
+        "land_ideal_for": "Factory",
+        "full_address": "6658 Adonis Lock, North Germainestad, New Mexico, Tokelau",
+        "city": "North Germainestad",
+        "state": "New Mexico",
+        "country": "Tokelau",
+        "nearby_locations": {
+            "locations": [
+                "Malls",
+                "Residential Area",
+                "Railway Station"
+            ],
+            "appox_footfall": "61880/day"
+        },
+        "nearest_major_city": "Oberbrunnerland",
+        "starting_price": "377.00",
+        "image": "barren_land_0"
+    },
+    {
+        "size": "12427 sq. meters",
+        "title": "Barren Land 199",
+        "id": "484a20bb-ecd4-4510-8c65-4552661ca1f0",
+        "owner_contact_info": {
+            "full_name": "State Government"
+        },
+        "acquired_on": "2020-05-22T19:25:16.731Z",
+        "land_type": "Half Constructed",
+        "land_ideal_for": "Factory",
+        "full_address": "377 Aufderhar Via, New Marlene, Vermont, Luxembourg",
+        "city": "New Marlene",
+        "state": "Vermont",
+        "country": "Luxembourg",
+        "nearby_locations": {
+            "locations": [
+                "Monument",
+                "Residential Area",
+                "Monument"
+            ],
+            "appox_footfall": "4284/day"
+        },
+        "nearest_major_city": "Franzview",
+        "starting_price": "255.00",
+        "image": "barren_land_5"
+    }
+]

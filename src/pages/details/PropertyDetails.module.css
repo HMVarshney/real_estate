@@ -1,0 +1,23 @@
+.main-container{
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.page-image{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    min-height: 450px;
+    max-height: 450px;
+    overflow: hidden;
+}
+
+.contact-info-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 1em;
+    box-shadow: 2px 2px 8px rgb(218, 218, 218);
+}

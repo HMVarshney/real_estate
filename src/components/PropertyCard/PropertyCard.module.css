@@ -1,0 +1,40 @@
+.container{
+    box-shadow: 2px 2px 8px rgb(196, 196, 196);
+    padding: 1em;
+    border-radius: 8px;
+}
+
+.container:hover{
+    box-shadow: 3px 3px 10px rgb(170, 170, 170);
+    transition: all ease-in-out 300ms;
+}
+
+.card-image{
+    min-height: 200px;
+    border-radius: 4px;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-heading:hover{
+    color: gray;
+    cursor: pointer;
+    transition: all ease-in-out 200ms;
+}
+
+.area-icon{
+    width: 2%;
+}
+
+.price-section{
+    background-color: rgb(243, 243, 243);
+    padding: 5px 0.5em;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
