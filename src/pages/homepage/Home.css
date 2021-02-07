@@ -1,0 +1,28 @@
+.banner{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 80vh;
+    width: 100%;
+}
+
+.banner-content{
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+.banner-text-content{
+    font-family: 'Beauty-Mountain';
+}
+
+.banner-heading{
+    letter-spacing: 5px;
+    font-size: 60px;
+}
+
+.explore-section{
+    background-color: rgb(15, 15, 15);
+    padding: 5em 0;
+    text-align: center;
+}

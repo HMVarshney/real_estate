@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Listings from "./pages/listings/listings";
 import Navbar from "./components/Navbar/Navbar";
 import { Suspense } from "react";
+import Footer from './components/Footer/Footer';
 
 const PropertyDetails = React.lazy(() => import("./pages/details/propertyDetails"));
 
@@ -26,6 +27,7 @@ function App() {
         <Route exact path='/listings' render={(props) => <Listings {...props} />} />
         <Route exact path='/details/:pid' render={(props) => <LazyComponent><PropertyDetails {...props} /></LazyComponent>} />
       </Switch>
+      <Footer />
     </BrowserRouter>
   );
 }
